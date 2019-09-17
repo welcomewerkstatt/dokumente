@@ -1,0 +1,1 @@
+In diesem Repository finden sich zentrale und wichtige Dokumente des Welcome Werkstatt e.V. Die Markdown-Dateien können an verschiedenen Stellen eingebettet und formatiert werden (zum Beispiel auf der Vereins-Webseite oder als Druckversion). Die Versionierung von Git/Github macht außerdem Änderungen an diesen Dokumenten transparent und für alle Mitglieder einsehbar.
