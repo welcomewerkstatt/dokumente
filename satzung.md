@@ -14,7 +14,7 @@
   1. Den Aufbau einer offenen Stadtteilwerkstatt, wo vor allem Kunst- und Bildungsprojekte realisiert werden.
   2. Die Förderung regionaler Wertschöpfung.
   3. Die fachliche Beratung und Unterstützung im handwerklichen Bereich.
-4. Wissensvermittlung in den folgenden Bereichen:
+  4. Wissensvermittlung in den folgenden Bereichen:
     * Handwerkliche Produktion
     * Traditionelle und neue Fertigungsverfahren
     * Werkstoffkunde
