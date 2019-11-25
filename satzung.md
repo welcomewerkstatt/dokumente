@@ -15,20 +15,19 @@
   2. Die Förderung regionaler Wertschöpfung.
   3. Die fachliche Beratung und Unterstützung im handwerklichen Bereich.
   4. Wissensvermittlung in den folgenden Bereichen:
-    * Handwerkliche Produktion
-    * Traditionelle und neue Fertigungsverfahren
-    * Werkstoffkunde
-    * Handwerkstechniken
-    * Einsatz neuer Technologien, Computer und neue Medien
-5. Veranstaltungen von Schulungen und Workshops u.a. zu nachhaltigen Instandhaltungsmaßnahmen von Gebrauchsgegenständen des alltäglichen Lebens und zur wissenschaftlichen Behandlung von aktuellen Entwicklungen in den o.g. Themenbereichen.
-6. Vernetzung von und mit bestehenden Gruppen und Projekten, z.B. Anwender-Gruppen, Stammtischen, Werkstätten, Künstlergruppen und wissenschaftlichen Einrichtungen.
-7. Gezielte Ansprache von geflüchteten Personen z.B. in Folgeunterkünften mit Angebot von handwerklichen Freizeitaktivitäten zu Integrations- und Austauschzwecken.
-8. Förderprojekte im Rahmen spezieller Veranstaltungen und Kooperationen mit ehrenamtlichen Bürgerinitiativen, Bildungseinrichtungen und Vereinen im Bereich Flüchtlingshilfe zum Zwecke der Integration.
-9. Einbindung künstlerischer Arbeiten in das Vereinsleben insbesondere durch:
-  * Ausstellung und Präsentation künstlerischer Arbeiten in den
-  Vereinsräumen.
-  * Integration künstlerischer Elemente in die Einrichtung der Vereinsräume.
-  * Bereitstellung von Arbeitsräumen/-materialien und Wissensvermittlung für Künstler.
+      * Handwerkliche Produktion
+      * Traditionelle und neue Fertigungsverfahren
+      * Werkstoffkunde
+      * Handwerkstechniken
+      * Einsatz neuer Technologien, Computer und neue Medien
+  5. Veranstaltungen von Schulungen und Workshops u.a. zu nachhaltigen Instandhaltungsmaßnahmen von Gebrauchsgegenständen des alltäglichen Lebens und zur wissenschaftlichen Behandlung von aktuellen Entwicklungen in den o.g. Themenbereichen.
+  6. Vernetzung von und mit bestehenden Gruppen und Projekten, z.B. Anwender-Gruppen, Stammtischen, Werkstätten, Künstlergruppen und wissenschaftlichen Einrichtungen.
+  7. Gezielte Ansprache von geflüchteten Personen z.B. in Folgeunterkünften mit Angebot von handwerklichen Freizeitaktivitäten zu Integrations- und Austauschzwecken.
+  8. Förderprojekte im Rahmen spezieller Veranstaltungen und Kooperationen mit ehrenamtlichen Bürgerinitiativen, Bildungseinrichtungen und Vereinen im Bereich Flüchtlingshilfe zum Zwecke der Integration.
+  9. Einbindung künstlerischer Arbeiten in das Vereinsleben insbesondere durch:
+      * Ausstellung und Präsentation künstlerischer Arbeiten in den Vereinsräumen.
+      * Integration künstlerischer Elemente in die Einrichtung der Vereinsräume.
+      * Bereitstellung von Arbeitsräumen/-materialien und Wissensvermittlung für Künstler.
 
 
 #### § 3 SELBSTLOSIGKEIT
