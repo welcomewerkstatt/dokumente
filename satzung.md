@@ -38,26 +38,20 @@
 
 #### § 4 MITGLIEDSCHAFT
 * Mitglieder können natürliche Personen und juristische Personen jedweder Rechtsform werden.
-
 * Der Vorstand entscheidet auf Antrag in Textform des Antragstellers über die Aufnahme. Der Vorstand entscheidet nach freiem Ermessen. Der Beschluss wird dem Antragsteller in Textform mitgeteilt. Der Beitritt Jugendlicher bis zur Volljährigkeit bedarf der schriftlichen Zustimmung der Eltern oder der des gesetzlichen Vertreters. Die Mitgliedschaft beginnt mit der Zustellung der Aufnahmebestätigung durch den Vorstand bzw. zum darin genannten Eintrittsdatum.
-
-* Die Mitgliedschaft dauert mindestens 1 Quartal eines Jahres, danach verlängert sie sich jeweils um ein Quartal eines Jahres.
-
+* Die Mitgliedschaft dauert mindestens ein Quartal eines Jahres, danach verlängert sie sich jeweils um ein Quartal eines Jahres.
 * Die Mitgliedschaft endet:
-    1. bei juristischen Personen mit deren Auflösung.
-    2. bei natürlichen Personen mit ihrem Tod.
-    3. nach Kündigung eines Mitgliedes gegenüber dem Vorstand. Die Kündigung muss mindestens 14 Tage vor Ablauf des Mitgliedzeitraumes eingegangen sein, die Beitragspflicht für das laufende Quartal bleibt hiervon unberührt. Die Kündigung muss in Textform erfolgen.
-    4. bei Mitgliedern, die sich mit mehr als drei Monatsbeiträgen im Verzug befinden, automatisch.
-    5. durch Ausschluss.
-
+  1. bei juristischen Personen mit deren Auflösung.
+  2. bei natürlichen Personen mit ihrem Tod.
+  3. nach Kündigung eines Mitgliedes gegenüber dem Vorstand. Die Kündigung muss mindestens 14 Tage vor Ablauf des Mitgliedzeitraumes eingegangen sein, die Beitragspflicht für das laufende Quartal bleibt hiervon unberührt. Die Kündigung muss in Textform erfolgen.
+  4. bei Mitgliedern, die sich mit mehr als drei Monatsbeiträgen im Verzug befinden, automatisch.
+  5. durch Ausschluss.
 * Die Mitgliedschaft kann auch eine Fördermitgliedschaft sein. Fördermitglieder haben kein Stimmrecht auf Mitgliederversammlungen. Die Fördermitgliedschaft kann bereits beim Eintritt in den Verein gewählt werden. Jedes Mitglied kann außerdem jederzeit durch Antrag in Textform an den Vorstand zwischen Fördermitgliedschaft und normaler Mitgliedschaft wechseln. Ein Wechsel wird jeweils mit Zugang des Antrages an den Vorstand gültig.
-
 * Alle ordentlichen Mitglieder haben das Recht, an öffentlichen Veranstaltungen des Vereins teilzunehmen und die Leistungen des Vereins in Anspruch zu nehmen. Sie haben Rechte und Pflichten aus dieser Satzung, insbesondere haben sie ein Stimmrecht.
 
 
 #### § 5 AUSSCHLUSS EINES MITGLIEDS
 * Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt oder wenn ein sonstiger wichtiger Grund vorliegt. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in Textform unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
-
 * Gegen den Beschluss des Vorstandes ist die Anrufung der Mitgliederversammlung zulässig. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft.
 
 #### § 6 MITGLIEDSBEITRÄGE
@@ -65,7 +59,6 @@
 
 #### § 7 FINANZIERUNG
 * Der Verein finanziert die Durchführung seiner Aufgaben durch Mitgliederbeiträge, Spenden, Umlagen und andere finanzielle Mittel, soweit sie nicht den gemeinnützigen Zwecken des Vereins widersprechen.
-
 * Nicht-künstlerische Projekte können auch für den Eigenbedarf realisiert werden, in diesem Falls allerdings gegen ein vom Verein festgelegtes Entgelt.
 
 #### § 8 ORGANE
@@ -114,13 +107,11 @@ Die Mitgliederversammlung:
 #### § 13 AUFLÖSUNG
 * Zur Auflösung des Vereins bedarf es der Dreiviertelmehrheit der an der
 Mitgliederversammlung teilnehmenden Mitglieder und der Hälfte der Mitglieder.
-
 * Bei Auflösung des Vereins oder bei Wegfall seines bisherigen Zwecks fällt das Vermögen von Welcome Werkstatt an eine gemeinnützige Körperschaft zwecks Verwendung für die Förderung der Wissenschaft und Forschung. Die Mitgliederversammlung, die eine Auflösung des Vereins beschließt, hat hier darüber abzustimmen welche gemeinnützige Körperschaft ausgewählt wird.
 
 #### § 14 SONSTIGES
 * Beschlüsse, durch die eine für steuerliche Vergünstigungen wesentliche Satzungsbestimmung geändert, ergänzt, in die Satzung eingefügt oder aufgehoben wird sowie die Auflösung des Vereins, die Überführung in eine andere Körperschaft oder die Übertragung des
 Vereinsvermögens als Ganzes ist der zuständigen Finanzbehörde durch den Vorstand unverzüglich mitzuteilen.
-
 * Vor Verteilung oder Übertragung des Vereinsvermögens ist die Unbedenklichkeitserklärung des zuständigen Finanzamtes einzuholen.
 
 Fassung vom 07.03.2018
