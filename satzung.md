@@ -44,11 +44,11 @@
 * Die Mitgliedschaft dauert mindestens 1 Quartal eines Jahres, danach verlängert sie sich jeweils um ein Quartal eines Jahres.
 
 * Die Mitgliedschaft endet:
-  1. bei juristischen Personen mit deren Auflösung.
-  2. bei natürlichen Personen mit ihrem Tod.
-  3. nach Kündigung eines Mitgliedes gegenüber dem Vorstand. Die Kündigung muss mindestens 14 Tage vor Ablauf des Mitgliedzeitraumes eingegangen sein, die Beitragspflicht für das laufende Quartal bleibt hiervon unberührt. Die Kündigung muss in Textform erfolgen.
-  4. bei Mitgliedern, die sich mit mehr als drei Monatsbeiträgen im Verzug befinden, automatisch.
-  5. durch Ausschluss.
+    1. bei juristischen Personen mit deren Auflösung.
+    2. bei natürlichen Personen mit ihrem Tod.
+    3. nach Kündigung eines Mitgliedes gegenüber dem Vorstand. Die Kündigung muss mindestens 14 Tage vor Ablauf des Mitgliedzeitraumes eingegangen sein, die Beitragspflicht für das laufende Quartal bleibt hiervon unberührt. Die Kündigung muss in Textform erfolgen.
+    4. bei Mitgliedern, die sich mit mehr als drei Monatsbeiträgen im Verzug befinden, automatisch.
+    5. durch Ausschluss.
 
 * Die Mitgliedschaft kann auch eine Fördermitgliedschaft sein. Fördermitglieder haben kein Stimmrecht auf Mitgliederversammlungen. Die Fördermitgliedschaft kann bereits beim Eintritt in den Verein gewählt werden. Jedes Mitglied kann außerdem jederzeit durch Antrag in Textform an den Vorstand zwischen Fördermitgliedschaft und normaler Mitgliedschaft wechseln. Ein Wechsel wird jeweils mit Zugang des Antrages an den Vorstand gültig.
 
