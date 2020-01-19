@@ -90,7 +90,7 @@ Die Mitgliederversammlung:
 
 #### § 11 VORSTAND
 * Der Verein wird gerichtlich und außergerichtlich von je zwei Vorstandsmitgliedern gemeinsam vertreten.
-* Der Vorstand besteht aus entweder 3 oder 5 Personen und wird auf 1 Jahr gewählt. Eine Wiederwahl ist möglich.
+* Der Vorstand besteht aus entweder 3 oder 5 Personen und wird auf ein Jahr gewählt. Eine Wiederwahl ist möglich.
 * Der Vorstand im Sinne des § 26 BGB besteht aus dem 1. Vorsitzenden, dem 2. Vorsitzenden und dem Schatzmeister.
 * Der Vorstand kann sich eine Geschäftsordnung geben, in der insbesondere Geschäftsverteilung innerhalb des Vorstandes und die gegenseitige Vertretung der Vorstandsmitglieder zu regeln ist.
 * Zu Sitzungen des Vorstandes ist eine Woche vorher in Textform zu laden. Mit dem Einverständnis aller Mitglieder des Vorstandes kann diese Frist verkürzt werden oder ganz entfallen.
