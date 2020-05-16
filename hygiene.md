@@ -14,7 +14,7 @@ Benutzt ihr die Werkstatt mit anderen Personen, stimmt euch ab, wer die Desinfek
 
 Sofern sie benutzt wurden, müssen Türgriffe, Wasserhähne, Spülbecken, die Oberflächen in der Küche und an den Elektro-Arbeitsplätzen, Klobrillen und Spülungen, Griffe und Schalter von Maschinen und Lichtschalter mindestens beim Abschließen der Werkstatt gründlich gereinigt und desinfiziert werden.
 
-Achtet darauf dass alle Personen die Hygiene-Regeln einhalten und weist sie darauf hin, wenn sie es nicht tun. Im Zweifelsfall, gebt Bedenken in der Chat-Gruppe weiter, oder wendet euch an den Vorstand (vorstand@welcome-werkstatt.de). 
+Achtet darauf dass alle Personen die Hygiene-Regeln einhalten und weist sie darauf hin, wenn sie es nicht tun. Im Zweifelsfall, gebt Bedenken in der Chat-Gruppe weiter, oder wendet euch an den Vorstand. 
 
 Beachtet auch die weiteren Hygiene-Hinweise auf der umliegenden Seite.
 
