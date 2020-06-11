@@ -3,11 +3,11 @@
 
 Habt ihr **Symptome einer akuten Atemwegserkrankung** oder ist für euch eine **behördlich Quarantäne angeordnet** worden, dürft ihr die Werkstatt nicht betreten.
 
-Maximal dürfen sich **vier Personen gleichzeitig** in der Werkstatt aufhalten.
+Maximal dürfen sich **vier Personen gleichzeitig** in den Räumen der Werkstatt aufhalten. Für den Außenbereich gilt der Mindestabstand von 1,5 Metern.
 
 Es gibt am Eingang eine **Protokoll-Box mit Einwurf-Schlitz**. Ihr müsst **jeden Besuch mit Zeitpunkt des Ankommens und Zeitpunkt des Verlassens auf einem Zettel vermerken und in diese Protokoll-Box werfen**. Dieses Protokoll wird für 4 Wochen aufbewahrt und danach vernichtet.
 
-Wenn technisch möglich, tragt eine Mund-Nasen-Bedeckung, sobald ihr euch in der Werkstatt aufhaltet. Habt ihr einen Beleg über medizinische Gründe, die es nicht erlauben eine Mund-Nasen-Bedeckung zu tragen, entfällt diese Regel.
+Wenn technisch möglich, tragt eine Mund-Nasen-Bedeckung, sobald ihr euch in den Räumen der Werkstatt aufhaltet. Habt ihr einen Beleg über medizinische Gründe, die es nicht erlauben eine Mund-Nasen-Bedeckung zu tragen, entfällt diese Regel.
 
 Haltet einen **Mindestabstand von 1,5 Metern** zwischen allen Anwesenden ein, mit Ausnahme der Personen, die in derselben Wohnung leben oder zwischen denen ein familienrechtliches Sorge- oder Umgangsrechtsverhältnis besteht.
 
@@ -58,3 +58,18 @@ Ausserdem:
    - Einmal-Hygiene-Tücher, um viel benutzte Gegenstände zu reinigen
    - Reinigungsmittel
    - Einmal-Handtücher zum Nachfüllen
+ - Für den offenen Samstag sind folgende zusätzliche Regelungen getroffen
+   - Am Eingang befindet sich ein Hinweis, auf die Aufsicht zu warten, die einen festen Werkbereich zuweist
+   - Trennlinien sorgen dafür das in der Warteschlange an der Tür der Abstand eingehalten wird
+   - Die Aufsicht hat Zugang zum Werkstatt Telefon (App) um Anfragen zur Belegung zu beantworten
+   - Auf der Webseite befindet sich ein Hinweis, das die Gäste am selben Tag Infos zur Belegung per Telefon bekommen können
+   - Reservierungen nehmen wir nur für den selben Tag an
+   - Die Gäste werden darauf hingewiesen persöhnliche Schutzausrüstung selbst mitzubringen
+ - Für den Kursbetrieb generell gilt
+   - Es steht zusätzlich der Hof zur Verfügung
+   - Alle Werkbereiche werden vor Beginn des Kurses ausgemessen, aufgebaut und markiert
+   - Die Teilnehmer*innen melden sich per Email an
+   - Persöhnliches Werkzeug liegt für den Kurs im jeweiligen Werkbereich bereit
+ - Während Kursen und offenen Samstagen ist
+   - Die Werkstattaufsicht für die Einhaltung der Hygiene-Regeln und die Reinigung verantwortlich
+   - Den Teilnehmer*innen ein fester Werkbereich zugewiesen
