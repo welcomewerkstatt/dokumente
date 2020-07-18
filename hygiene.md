@@ -1,9 +1,9 @@
 # Hygiene-Regeln
-***Fassung vom 28. Mai 2020***
+***Fassung vom 18. Juli 2020***
 
 Habt ihr **Symptome einer akuten Atemwegserkrankung** oder ist für euch eine **behördlich Quarantäne angeordnet** worden, dürft ihr die Werkstatt nicht betreten.
 
-Maximal dürfen sich **vier Personen gleichzeitig** in der Werkstatt aufhalten.
+Maximal dürfen sich **sechs Personen gleichzeitig** in der Werkstatt aufhalten.
 
 Es gibt am Eingang eine **Protokoll-Box mit Einwurf-Schlitz**. Ihr müsst **jeden Besuch mit Zeitpunkt des Ankommens und Zeitpunkt des Verlassens auf einem Zettel vermerken und in diese Protokoll-Box werfen**. Dieses Protokoll wird für 4 Wochen aufbewahrt und danach vernichtet.
 
