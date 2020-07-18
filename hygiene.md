@@ -26,10 +26,7 @@ Beachtet auch die weiteren Hygiene-Hinweise auf der umliegenden Seite.
  
 # Hygiene-Hinweise
 
-Aus Sicht des Infektionsschutzes empfehlen wir folgende Verhaltensweisen.
-
-Allgemein: 
-https://www.infektionsschutz.de/fileadmin/infektionsschutz.de/Downloads/200326_BZgA_Atemwegsinfektion-Hygiene_schuetzt_A4_DE_RZ_L_Ansicht.pdf
+Aus Sicht des Infektionsschutzes schließen wir uns den [Empfehlungen der BzgA](https://www.bzga.de/fileadmin/user_upload/corona/200306_BZgA_Atemwegsinfektion-Hygiene_schuetzt_DE.pdf) an:
 
  - Haltet Abstand zu anderen Menschen.
  - Wascht euch regelmäßig und gründlich die Hände (mindestens 20 Sekunden) mit Wasser und Seife.
