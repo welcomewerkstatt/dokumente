@@ -2,7 +2,7 @@
 
 Die Mitgliederversammlung des Vereins Welcome Werkstatt e.V. hat am 9.11.2019 folgende Beitragsordnung beschlossen:
 
-1. Miedergebühren
+1. Mitgliederegebühren
 1.1. Alle Vereinsmitglieder – sowohl Fördermitglieder als auch ordentliche Mitglieder mit Stimmrecht – zahlen einen Mitgliedsbeitrag. Der Mitgliedsbeitrag wird monatlich berechnet.
 
 1.2. Ehrenmitglieder sind von der Beitragszahlung befreit. 
