@@ -19,7 +19,7 @@ Die Mitgliederversammlung des Vereins Welcome Werkstatt e. V. hat am 9.11.2019 f
         | Jugendliche (ab vollendetem 16. Lebensjahr) | 15 Euro | - |
         | Senioren (ab vollendetem 65. Lebensjahr) | 15 Euro | Ab 7,50 Euro |
 
-    Der Quartale bzw. (Halb-)Jährliche Beitrag berechnet sich entsprechend.
+    Der quartale, halbjährliche und jährliche Beitrag berechnet sich entsprechend durch Multiplikation der Monatsbeiträge mit der Anzahl der Monate (4, 6 oder 12).
 
 
 2. Tagessatz
