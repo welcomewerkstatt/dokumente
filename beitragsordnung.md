@@ -43,7 +43,7 @@ Die Mitgliederversammlung des Vereins Welcome Werkstatt e. V. hat am 9.11.2019 f
 4. Neumitglieder
     1. Der Verein erhebt eine Aufnahmegebühr von 10 Euro, die nach Aufnahme in den Verein fällig wird und mit dem ersten Mitgliedsbeitrag zusammen überwiesen werden kann oder gemeinsam mit dem ersten Mitgliedsbeitrag im Lastschriftverfahren eingezogen wird.
 
-    2. Nutzung von Lagerfläche erfodert eine genormte Lagerkiste. Diese erhält das Mitglied zum Selbstkostenpreis von der Werkstatt.Aktuell beträgt dieser 8,50 € 
+    2. Die Nutzung von Lagerfläche erfordert eine genormte Lagerkiste. Diese erhält das Mitglied zum Selbstkostenpreis von der Werkstatt. Aktuell beträgt dieser 8,50 €. 
 
     3. Für den Erhalt eines AirKey-Token wird eine Pfandleistung in Höhe des aktuellen Preises erhoben. Aktuell beträgt dieser 15 €
 
