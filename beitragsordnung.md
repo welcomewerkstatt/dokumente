@@ -27,7 +27,7 @@ Die Mitgliederversammlung des Vereins Welcome Werkstatt e. V. hat am 9.11.2019 f
 
     2. Alle Besucher (Mitglieder und Gäste) können eine Begleitperson mit in die Räumlichkeiten bringen, sofern diese am gleichen Projekt mitarbeitet. Die Begleitperson eines Mitglieds entrichtet eine Tagespauschale von 3 Euro. Die Begleitperson eines Nicht-Mitglieds entrichtet eine Tagespauschale von 8 Euro.
 
-    3. Den Mitgliedern steht die Möglichkeit einer 10er-Karte zur Verfügung. Diese ist ähnlich einen Gutschein nutzbar und eingenständig zu entwerten. Es ist Vorkasse (Bar oder Überweisung) erforderlich. Die Kosten bzw. der Wert der 10er-Karte entspricht zehn einzelnen Tagesätzen für Mitglieder gem. der Beitragsordnung.
+    3. Den Mitgliedern steht die Möglichkeit einer 10er-Karte zur Verfügung. Diese ist wie ein Gutschein nutzbar und eingenständig zu entwerten. Es ist Vorkasse (Bar oder Überweisung) erforderlich. Die Kosten bzw. der Wert der 10er-Karte entspricht zehn einzelnen Tagesätzen (derzeit 3 € x 10 = 30 € für Mitglieder gem. der Beitragsordnung. Sollte sich der Tagessatz ändern, behält die 10er-Karte Ihren entsprechenden Wert und kann entweder eingetauscht oder anteilig genutzt werden. 
 
 
 3. Arbeitsleistung
@@ -43,9 +43,9 @@ Die Mitgliederversammlung des Vereins Welcome Werkstatt e. V. hat am 9.11.2019 f
 4. Neumitglieder
     1. Der Verein erhebt eine Aufnahmegebühr von 10 Euro, die nach Aufnahme in den Verein fällig wird und mit dem ersten Mitgliedsbeitrag zusammen überwiesen werden kann oder gemeinsam mit dem ersten Mitgliedsbeitrag im Lastschriftverfahren eingezogen wird.
 
-    2. Die Nutzung von Lagerfläche erfordert eine genormte Lagerkiste. Diese erhält das Mitglied zum Selbstkostenpreis von der Werkstatt. Aktuell beträgt dieser 8,50 €. 
+    2. Die Nutzung von Lagerfläche erfordert eine genormte Lagerkiste. Diese erhält das Mitglied zum Selbstkostenpreis von der Werkstatt. Aktuell beträgt dieser 8,50 €. Bei Austritt ist es möglich die Kiste an den Verein zurück zu geben. Sofern die Kiste vollständig intakt und weiterhin nutzbar ist, wird der geleistete Betrag zurückerstattet.  
 
-    3. Für den Erhalt eines AirKey-Token wird eine Pfandleistung in Höhe des aktuellen Preises erhoben. Aktuell beträgt dieser 15 €
+    3. Für den Erhalt eines AirKey-Token wird eine Pfandleistung in Höhe des aktuellen Preises erhoben. Aktuell beträgt dieser 15 €. Sofern der Air-Key intakt und weiterhin nutzbar ist, kann dieser an den Verein zurückgegeben werden. Die Pfandleistung wird dann vollständig erstattet. 
 
 
 5. Zahlungsweise
