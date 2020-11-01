@@ -41,7 +41,7 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
 4. Neumitglieder
     1. Der Verein erhebt eine Aufnahmegebühr von 10 Euro, die nach Aufnahme in den Verein fällig wird und mit dem ersten Mitgliedsbeitrag zusammen überwiesen werden kann oder gemeinsam mit dem ersten Mitgliedsbeitrag im Lastschriftverfahren eingezogen wird.
 
-    2. Die Nutzung von Lagerfläche erfordert eine genormte Lagerkiste. Diese erhält das Mitglied zum Selbstkostenpreis von der Werkstatt. Aktuell beträgt dieser 8,50 Euro. Bei Austritt ist es möglich die Kiste an den Verein zurück zu geben. Sofern die Kiste vollständig intakt und weiterhin nutzbar ist, wird der geleistete Betrag zurückerstattet.  
+    2. Die Nutzung von Lagerfläche erfordert eine genormte Lagerkiste. Diese erhält das Mitglied zum Selbstkostenpreis von aktuell 8,50 Euro. Sofern die Kiste vollständig intakt und weiterhin nutzbar ist, kann diese bei Austritt an den Verein zurückgegeben werden und der Betrag wird dem Mitglied erstattet. 
 
     3. Auf Wunsch erhalten Mitglieder einen Schlüsselanhänger zur Öffnung der Räumlichkeiten. Dabei wird aktuell eine Pfandleistung in Höhe von 15 Euro fällig. Sofern der Schlüsselanhänger intakt und weiterhin nutzbar ist, kann dieser bei Austritt an den Verein zurückgegeben werden. Die gezahlte Pfandleistung wird dann vollständig erstattet.
 
