@@ -40,7 +40,8 @@ Ausserdem:
  - Sorgt dafür dass die Räume möglichst gut durchlüftet sind. Es sollte mindestens stündlich gelüftet werden.
  - Haltet die Türen im Innenraum möglichst offen, solange ihr in der Werkstatt seid.
  - Beachtet die Hinweise auf der Desinfektionsmittel-Flasche.
- - Weist in der Chat-Gruppe darauf hin, falls das Desinfektionsmittel zur Neige gehen sollte.
+ - Weist in der Chat-Gruppe darauf hin, falls Desinfektionsmittel, Seife, Papierhandtücher o.Ä. zur Neige gehen sollten.
+ - Bitte verwendet die offizielle Corona-App auf euren Smartphones ((bundesregierung.de/breg-de/themen/corona-warn-app)[https://www.bundesregierung.de/breg-de/themen/corona-warn-app]).
 
 # Praktische Maßnahmen
 
