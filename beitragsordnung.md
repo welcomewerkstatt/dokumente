@@ -13,7 +13,7 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
         | Art der Mitgliedschaft  | Mitglieder mit Stimmrecht | Fördermitglieder |
         | ----------------------- | ------------------------- | ---------------- |
         | Erwachsene (ab vollendetem 18. Lebensjahr) | 25 Euro | Ab 12,50 Euro |
-        | Partner/Familie (im gleichen Haushalt wie Mitglied ) | 7,50 Euro | - |
+        | Partner/Familie (im gleichen Haushalt wie Mitglied) | 7,50 Euro | - |
         | Jugendliche (ab vollendetem 16. Lebensjahr) | 15 Euro | - |
         | Senioren (ab vollendetem 65. Lebensjahr) | 15 Euro | Ab 7,50 Euro |
 
