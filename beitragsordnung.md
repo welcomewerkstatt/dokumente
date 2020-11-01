@@ -35,7 +35,7 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
 
     3. Die Kontrolle erbrachter Arbeitsstunden obliegt dem Vorstand, dabei werden die Arbeitsstunden der Mitglieder durch den Vorstand oder den Mitgliederwart per E-Mail bestätigt.
 
-    4. Wird die Anzahl der Arbeitsstunden nicht erfüllt, erhebt der Verein pro nicht geleisteter Stunde eine Ausfallgebühr von 10 Euro. Der eventuell fällig werdende Betrag wird dem Mitglied schriftlich mitgeteilt. Im folgenden Monat wird der Betrag durch das Mitglied in bar, per Lastschrift oder per Überweisung beglichen.
+    4. Wird die Anzahl der Arbeitsstunden nicht erfüllt, erhebt der Verein pro nicht geleisteter Stunde eine Ausfallgebühr von 10 Euro. Der eventuell fällig werdende Betrag wird dem Mitglied per E-Mail mitgeteilt. Im folgenden Monat wird der Betrag durch das Mitglied in bar, per Lastschrift oder per Überweisung beglichen.
 
 
 4. Neumitglieder
