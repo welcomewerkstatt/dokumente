@@ -46,18 +46,13 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
     3. Auf Wunsch erhalten Mitglieder einen Schlüsselanhänger zur Öffnung der Räumlichkeiten. Dabei wird aktuell eine Pfandleistung in Höhe von 15 Euro fällig. Sofern der Schlüsselanhänger intakt und weiterhin nutzbar ist, kann dieser bei Austritt an den Verein zurückgegeben werden. Die gezahlte Pfandleistung wird dann vollständig erstattet.
 
 
-5. Zahlungsweise
-    1. Bei Nutzung des Lastschriftverfahrens und Unregelmäßigkeiten auf den Konten des Vereinsmitglieds – z.B. mangelnde Deckung, Änderung der Kontonummer, der Anschrift, des Namens u.a. ohne Information an den Verein – werden pro Mahnung etwaige Rücklastschriftgebühren und eine Mahngebühr von 2,50 Euro erhoben.
 
-    3. Es können Umlagen und / oder Sachleistungen von den Mitgliedern erhoben werden. Die Erhebung von Umlagen und / oder Sachleistungen muss von der Mitgliederversammlung beschlossen werden.
-
-
-6. Sonstiges
+5. Sonstiges
     1. Anschriften-, Namens- und Kontenänderungen sowie Veränderungen, die zu einer anderen Bemessung der Beitragshöhe führen, sind dem Vorstand unverzüglich mitzuteilen.
 
-    2. Wird der Beitrag trotz schriftlicher Mahnung nicht fristgemäß entrichtet, führt dies gemäß Satzung § 4 nach einem Verzug mit drei Monatsbeiträgen zum Ausschluss des Mitgliedes. Die Verbindlichkeiten bleiben davon unberührt. Für einfache Mahnschreiben ist der Verein berechtigt, ohne Nachweisführung einen Betrag von 2,50 Euro zu berechnen.
+    2. Wird der Beitrag trotz schriftlicher Mahnung nicht fristgemäß entrichtet, führt dies gemäß Satzung § 4 nach einem Verzug mit drei Monatsbeiträgen zum Ausschluss des Mitgliedes. Die Verbindlichkeiten bleiben davon unberührt. Für Mahnschreiben ist der Verein berechtigt, ohne Nachweisführung einen Betrag von 2,50 Euro zu berechnen.
 
-    3. Diese Beitragsordnung kann bei Notwendigkeit vom Vorstand per Beschluss geändert werden. Der Vorstand hat Änderungsbeschlüsse bezüglich dieser Beitragsordnung unverzüglich per E-Mail an alle Mitglieder mit E-Mail-Adresse sowie zusätzlich in der nächsten Mitgliederversammlung vorzulegen.
+    3. Diese Beitragsordnung kann bei Notwendigkeit vom Vorstand per Beschluss geändert werden. Der Vorstand hat Änderungsbeschlüsse bezüglich dieser Beitragsordnung unverzüglich per E-Mail an alle Mitglieder mit bekannter E-Mail-Adresse sowie zusätzlich in der nächsten Mitgliederversammlung vorzulegen.
 
 
 Beschlossen am 1.11.2020
