@@ -7,7 +7,7 @@ In der Werkstatt dürfen sich nur **Personen aus zwei Haushalten gleichzeitig** 
 
 Es gibt am Eingang eine **Protokoll-Box mit Einwurf-Schlitz**. Ihr müsst **jeden Besuch mit Zeitpunkt des Ankommens und Zeitpunkt des Verlassens auf einem Zettel vermerken und in diese Protokoll-Box werfen**. Dieses Protokoll wird für 4 Wochen aufbewahrt und danach vernichtet.
 
-Tragt eine Mund-Nasen-Bedeckung, sobald ihr euch in der Werkstatt aufhaltet. Zur Not kann diese am Arbeitsplatz abgenommen werden muss aber wieder aufgesetzt werden wenn ihr euch in der Werkstatt bewegt. Habt ihr einen Beleg über medizinische Gründe, die es nicht erlauben eine Mund-Nasen-Bedeckung zu tragen, entfällt diese Regel.
+Tragt eine Mund-Nasen-Bedeckung, sobald ihr euch in der Werkstatt aufhaltet. In Ausnahmefällen kann diese am Arbeitsplatz abgenommen werden, muss aber wieder aufgesetzt werden, wenn ihr euch in der Werkstatt bewegt. Habt ihr einen Beleg über medizinische Gründe, die es nicht erlauben eine Mund-Nasen-Bedeckung zu tragen, entfällt diese Regel.
 
 Haltet einen **Mindestabstand von 1,5 Metern** zwischen allen Anwesenden ein, mit Ausnahme der Personen, die in derselben Wohnung leben oder zwischen denen ein familienrechtliches Sorge- oder Umgangsrechtsverhältnis besteht.
 
