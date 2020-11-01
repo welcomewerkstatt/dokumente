@@ -27,11 +27,11 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
 
     2. Alle Besucher (Mitglieder und Gäste) können eine Begleitperson mit in die Räumlichkeiten bringen, sofern diese am gleichen Projekt mitarbeitet. Die Begleitperson eines Mitglieds entrichtet eine Tagespauschale von 3 Euro. Die Begleitperson eines Nicht-Mitglieds entrichtet eine Tagespauschale von 8 Euro.
 
-    3. Den Mitgliedern steht zur Bezahlung der Tagespauschale die Möglichkeit der Nutzung einer 10er-Karte zur Verfügung. Diese ist ähnlich einem Gutschein nutzbar und eingenständig vor Ort zu entwerten. Die 10er-Karten sind im Vereinsbüro jederzeit frei zugänglich. Es ist Vorkasse (Bar oder Überweisung) erforderlich. Die Kosten bzw. der Wert der 10er-Karte entspricht zehn einzelnen Tagesätzen für Mitglieder (Derzeit 3 € x 10 = 30 €) gem. der gültigen Beitragsordnung. Sollte sich der Tagessatz ändern, behält die 10er-Karte Ihren entsprechenden Wert und kann entweder eingetauscht oder anteilig genutzt werden. 
+    3. Den Mitgliedern steht zur Bezahlung der Tagespauschale die Möglichkeit der Nutzung einer 10er-Karte zur Verfügung. Diese ist ähnlich einem Gutschein nutzbar und eingenständig vor Ort zu entwerten. Die 10er-Karten sind im Vereinsbüro jederzeit frei zugänglich. Es ist Vorkasse (Bar oder Überweisung) erforderlich. Die Kosten bzw. der Wert der 10er-Karte entspricht zehn einzelnen Tagesätzen für Mitglieder (Derzeit 3 Euro x 10 = 30 Euro) gem. der gültigen Beitragsordnung. Sollte sich der Tagessatz ändern, behält die 10er-Karte Ihren entsprechenden Wert und kann entweder eingetauscht oder anteilig genutzt werden. 
 
 
 3. Arbeitsleistung
-    1. Alle ordentlichen Mitglieder mit Stimmrecht ab dem vollendeten 16. Lebensjahr und bis zu vollendeten 60. Lebensjahr müssen jährlich 5 Stunden Arbeit zum Erhalt, zur Pflege und/oder Erweiterung der vereinseigenen Einrichtungen und Anlagen erbringen. 
+    1. Alle ordentlichen Mitglieder mit Stimmrecht ab dem vollendeten 16. Lebensjahr und bis zu vollendeten 60. Lebensjahr müssen jährlich vier Stunden Arbeit zum Erhalt, zur Pflege und/oder Erweiterung der vereinseigenen Einrichtungen und Anlagen erbringen. 
 
     2. Die Arbeitsstunden können dabei in Form der Aufsicht der offenen Werkstatt, als Kursleiter und Repair-Café Helfer,sowie für den Ausbau und die Pflege der Werksttat abgeleistet werden.
 
@@ -43,9 +43,9 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
 4. Neumitglieder
     1. Der Verein erhebt eine Aufnahmegebühr von 10 Euro, die nach Aufnahme in den Verein fällig wird und mit dem ersten Mitgliedsbeitrag zusammen überwiesen werden kann oder gemeinsam mit dem ersten Mitgliedsbeitrag im Lastschriftverfahren eingezogen wird.
 
-    2. Die Nutzung von Lagerfläche erfordert eine genormte Lagerkiste. Diese erhält das Mitglied zum Selbstkostenpreis von der Werkstatt. Aktuell beträgt dieser 8,50 €. Bei Austritt ist es möglich die Kiste an den Verein zurück zu geben. Sofern die Kiste vollständig intakt und weiterhin nutzbar ist, wird der geleistete Betrag zurückerstattet.  
+    2. Die Nutzung von Lagerfläche erfordert eine genormte Lagerkiste. Diese erhält das Mitglied zum Selbstkostenpreis von der Werkstatt. Aktuell beträgt dieser 8,50 Euro. Bei Austritt ist es möglich die Kiste an den Verein zurück zu geben. Sofern die Kiste vollständig intakt und weiterhin nutzbar ist, wird der geleistete Betrag zurückerstattet.  
 
-    3. Für den Erhalt eines AirKey-Token wird eine Pfandleistung in Höhe des aktuellen Preises erhoben. Aktuell beträgt dieser 15 €. Sofern der Air-Key intakt und weiterhin nutzbar ist, kann dieser an den Verein zurückgegeben werden. Die Pfandleistung wird dann vollständig erstattet. 
+    3. Für den Erhalt eines AirKey-Token wird eine Pfandleistung in Höhe des aktuellen Preises erhoben. Aktuell beträgt dieser 15 Euro. Sofern der Air-Key intakt und weiterhin nutzbar ist, kann dieser an den Verein zurückgegeben werden. Die Pfandleistung wird dann vollständig erstattet. 
 
 
 5. Zahlungsweise
