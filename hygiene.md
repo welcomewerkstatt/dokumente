@@ -1,5 +1,5 @@
 # Hygiene-Regeln
-***Fassung vom 30. Oktober 2020***
+***Fassung vom 1. November 2020***
 
 Habt ihr **Symptome einer akuten Atemwegserkrankung** oder ist für euch eine **behördlich Quarantäne angeordnet** worden, dürft ihr die Werkstatt nicht betreten.
 
@@ -22,7 +22,7 @@ Bereitet keine Speisen in der Werkstatt zu.
 Beachtet auch die weiteren Hygiene-Hinweise auf der umliegenden Seite.
 
 
-***Benjamin Bunzel, Moritz Stückler (Vorstände)***
+***Benjamin Bunzel, Moritz Stückler, Thorben Hain (Vorstände)***
  
 # Hygiene-Hinweise
 
