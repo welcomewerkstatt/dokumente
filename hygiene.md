@@ -3,7 +3,7 @@
 
 Habt ihr **Symptome einer akuten Atemwegserkrankung** oder ist für euch eine **behördlich Quarantäne angeordnet** worden, dürft ihr die Werkstatt nicht betreten.
 
-Maximal dürfen sich **vier Personen gleichzeitig** in der Werkstatt aufhalten. Diese Personen dürfen maximal **aus zwei Haushalten** stammen.
+In der Werkstatt dürfen sich nur **Personen aus zwei Haushalten gleichzeitig** aufhalten. Die maximale Personenzahl darf dabei **vier Personen** nicht überschreiten.
 
 Es gibt am Eingang eine **Protokoll-Box mit Einwurf-Schlitz**. Ihr müsst **jeden Besuch mit Zeitpunkt des Ankommens und Zeitpunkt des Verlassens auf einem Zettel vermerken und in diese Protokoll-Box werfen**. Dieses Protokoll wird für 4 Wochen aufbewahrt und danach vernichtet.
 
