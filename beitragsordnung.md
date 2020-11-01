@@ -25,7 +25,7 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
 
     2. Alle Besucher (Mitglieder und Gäste) können eine Begleitperson mit in die Räumlichkeiten bringen, sofern diese am gleichen Projekt mitarbeitet. Die Begleitperson eines Mitglieds entrichtet eine Tagespauschale von 3 Euro. Die Begleitperson eines Nicht-Mitglieds entrichtet eine Tagespauschale von 8 Euro.
 
-    3. Den Mitgliedern steht zur Bezahlung der Tagespauschale die Möglichkeit der Nutzung einer 10er-Karte zur Verfügung. Diese ist ähnlich einem Gutschein nutzbar und eingenständig vor Ort zu entwerten. Die 10er-Karten sind im Vereinsbüro jederzeit frei zugänglich. Es ist Vorkasse (Bar oder Überweisung) erforderlich. Die Kosten bzw. der Wert der 10er-Karte entspricht zehn einzelnen Tagesätzen für Mitglieder (Derzeit 3 Euro x 10 = 30 Euro) gem. der gültigen Beitragsordnung. Sollte sich der Tagessatz ändern, behält die 10er-Karte Ihren entsprechenden Wert und kann entweder eingetauscht oder anteilig genutzt werden. 
+    3. Mitglieder können zur Entrichtung der Tagespauschale eine Zehnerkarte zum Preis von zehn Tagessätzen (aktuell 10 x 3 Euro also 30 Euro) erwerben. Sie erlaubt dem Mitglied die zehnmalige Nutzung der Räumlichkeiten – auch wenn sich die Höhe der Tagespauschale im Nachhinein ändert. 
 
 
 3. Arbeitsleistung
