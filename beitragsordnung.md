@@ -20,7 +20,7 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
         Der quartale, halbjährliche und jährliche Beitrag berechnet sich entsprechend durch Multiplikation der Monatsbeiträge mit der Anzahl der Monate (4, 6 oder 12).
 
 
-2. Tagessatz
+2. Tagespauschale
     1. Für die private Nutzung der Räumlichkeiten des Vereins entrichten ordentliche Mitglieder mit Stimmrecht eine reduzierte Tagespauschale von 3 Euro. Gäste entrichten pro Nutzungstag innerhalb der regulären Öffnungszeiten pauschal 10 Euro.
 
     2. Alle Besucher (Mitglieder und Gäste) können eine Begleitperson mit in die Räumlichkeiten bringen, sofern diese am gleichen Projekt mitarbeitet. Die Begleitperson eines Mitglieds entrichtet eine Tagespauschale von 3 Euro. Die Begleitperson eines Nicht-Mitglieds entrichtet eine Tagespauschale von 8 Euro.
