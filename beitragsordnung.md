@@ -43,7 +43,7 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
 
     2. Die Nutzung von Lagerfläche erfordert eine genormte Lagerkiste. Diese erhält das Mitglied zum Selbstkostenpreis von der Werkstatt. Aktuell beträgt dieser 8,50 Euro. Bei Austritt ist es möglich die Kiste an den Verein zurück zu geben. Sofern die Kiste vollständig intakt und weiterhin nutzbar ist, wird der geleistete Betrag zurückerstattet.  
 
-    3. Für den Erhalt eines AirKey-Token wird eine Pfandleistung in Höhe des aktuellen Preises erhoben. Aktuell beträgt dieser 15 Euro. Sofern der Air-Key intakt und weiterhin nutzbar ist, kann dieser an den Verein zurückgegeben werden. Die Pfandleistung wird dann vollständig erstattet. 
+    3. Auf Wunsch erhalten Mitglieder einen Schlüsselanhänger zur Öffnung der Räumlichkeiten. Dabei wird aktuell eine Pfandleistung in Höhe von 15 Euro fällig. Sofern der Schlüsselanhänger intakt und weiterhin nutzbar ist, kann dieser bei Austritt an den Verein zurückgegeben werden. Die gezahlte Pfandleistung wird dann vollständig erstattet.
 
 
 5. Zahlungsweise
