@@ -31,7 +31,7 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
 3. Arbeitsleistung
     1. Alle ordentlichen Mitglieder mit Stimmrecht ab dem vollendeten 16. Lebensjahr und bis zu vollendeten 60. Lebensjahr müssen jährlich vier Stunden Arbeit zum Erhalt, zur Pflege und/oder Erweiterung der vereinseigenen Einrichtungen und Anlagen erbringen. Die Arbeitsleistung ist im Eintrittsjahr für vollständige Quartale anteilig zu erbringen.
 
-    2. Die Arbeitsstunden können dabei in Form der Aufsicht der offenen Werkstatt, als Kursleiter und Repair-Café Helfer,sowie für den Ausbau und die Pflege der Werksttat abgeleistet werden.
+    2. Die Arbeitsstunden können zum Beispiel abgeleistet werden als Aufsichtsperson bei der "offenen Werkstatt" oder bei Kursen und Veranstaltungen, sowie beim Ausbau und der Pflege der Werkstatt.
 
     3. Die Kontrolle erbrachter Arbeitsstunden obliegt dem Vorstand, dabei werden die Arbeitsstunden der Mitglieder durch den Vorstand oder den Mitgliederwart per E-Mail bestätigt.
 
