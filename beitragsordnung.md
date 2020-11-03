@@ -5,7 +5,7 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
 1. Mitgliedsgebühren
     1. Alle Vereinsmitglieder – sowohl Fördermitglieder als auch ordentliche Mitglieder mit Stimmrecht – zahlen einen Mitgliedsbeitrag. Der Mitgliedsbeitrag wird monatlich berechnet.
 
-    2. Ordentliche Mitglieder können gemäß der Satzung § 6 einen Antrag auf Ermäßigung der Beitragshöhe stellen. Der formlose Antrag ist dabei zu begründen. Die Begründung kann sich z.B. auf den Erhalt von Sozialleistung im Rahmen des SGB I ff. stützen. Über den Antrag wird durch den Vorstand per einfachem Mehrheitsbeschluss binnen 14 Tagen entschieden. Der zu leistende Beitrag wird durch den Vorstand im Einzelfall festgelegt und dem Mitglied ohne Verzug formlos mitgeteilt.
+    2. Ordentliche Mitglieder können gemäß § 6 der Satzung einen Antrag auf Ermäßigung der Beitragshöhe stellen. Der formlose Antrag ist dabei zu begründen. Die Begründung kann sich z.B. auf den Erhalt von Sozialleistung im Rahmen des SGB I ff. stützen. Über den Antrag wird durch den Vorstand per einfachem Mehrheitsbeschluss binnen 14 Tagen entschieden. Der zu leistende Beitrag wird durch den Vorstand im Einzelfall festgelegt und dem Mitglied ohne Verzug formlos mitgeteilt.
 
     3. Die Beitragszahlung der Mitglieder erfolgt entweder per Überweisung auf das Vereinskonto oder im Lastschriftverfahren. Sie erfolgt, je nach gewählter Zahlungsweise des Mitglieds, jeweils zum ersten Werktag des Monats oder im ersten Monat des laufenden Quartals, des Halbjahres oder des Jahres. Wird das Lastschriftverfahren gewählt, so erteilt das Mitglied dem Verein hierfür ein SEPA-Lastschriftmandat.
 
