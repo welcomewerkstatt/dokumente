@@ -50,7 +50,7 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
 5. Sonstiges
     1. Anschriften-, Namens- und Kontenänderungen sowie Veränderungen, die zu einer anderen Bemessung der Beitragshöhe führen, sind dem Vorstand unverzüglich mitzuteilen.
 
-    2. Wird der Beitrag trotz schriftlicher Mahnung nicht fristgemäß entrichtet, führt dies gemäß Satzung § 4 nach einem Verzug mit drei Monatsbeiträgen zum Ausschluss des Mitgliedes. Die Verbindlichkeiten bleiben davon unberührt. Für Mahnschreiben ist der Verein berechtigt, ohne Nachweisführung einen Betrag von 2,50 Euro zu berechnen.
+    2. Wird der Beitrag trotz schriftlicher Mahnung nicht fristgemäß entrichtet, führt dies gemäß  § 4 der Satzung nach einem Verzug mit drei Monatsbeiträgen zum Ausschluss des Mitgliedes. Die Verbindlichkeiten bleiben davon unberührt. Für Mahnschreiben ist der Verein berechtigt, ohne Nachweisführung einen Betrag von 2,50 Euro zu berechnen.
 
     3. Diese Beitragsordnung kann bei Notwendigkeit vom Vorstand per Beschluss geändert werden. Der Vorstand hat Änderungsbeschlüsse bezüglich dieser Beitragsordnung unverzüglich per E-Mail an alle Mitglieder mit bekannter E-Mail-Adresse sowie zusätzlich in der nächsten Mitgliederversammlung vorzulegen.
 
