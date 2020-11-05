@@ -22,11 +22,14 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
 
 2. Tagespauschale
     1. Für die private Nutzung der Räumlichkeiten des Vereins entrichten ordentliche Mitglieder mit Stimmrecht eine reduzierte Tagespauschale von 3 Euro. Gäste entrichten pro Nutzungstag innerhalb der regulären Öffnungszeiten pauschal 10 Euro.
+    
+    2. Gäste und Mitglieder, die Sozialleistung(-en) im Rahmen des SGB I ff. erhalten, zahlen pro Nutzungstag die Hälfte der jeweiligen Tagespauschale. Ein Nachweis ist nicht erforderlich.
 
-    2. Alle Besucher (Mitglieder und Gäste) können eine Begleitperson mit in die Räumlichkeiten bringen, sofern diese am gleichen Projekt mitarbeitet. Die Begleitperson eines Mitglieds entrichtet eine Tagespauschale von 3 Euro. Die Begleitperson eines Nicht-Mitglieds entrichtet eine Tagespauschale von 8 Euro.
+    3. Alle Besucher (Mitglieder und Gäste) können eine Begleitperson mit in die Räumlichkeiten bringen, sofern diese am gleichen Projekt mitarbeitet. Die Begleitperson eines Mitglieds entrichtet eine Tagespauschale von 3 Euro. Die Begleitperson eines Nicht-Mitglieds entrichtet eine Tagespauschale von 8 Euro.
 
-    3. Mitglieder können zur Entrichtung der Tagespauschale eine Zehnerkarte zum Preis von zehn Tagespauschalen (aktuell 10 x 3 Euro also 30 Euro) erwerben. Sie erlaubt dem Mitglied die zehnmalige Nutzung der Räumlichkeiten – auch wenn sich die Höhe der Tagespauschale im Nachhinein ändert. 
-
+    4. Mitglieder können zur Entrichtung der Tagespauschale eine Zehnerkarte zum Preis von zehn Tagespauschalen (aktuell 10 x 3 Euro also 30 Euro) erwerben. Sie erlaubt dem Mitglied die zehnmalige Nutzung der Räumlichkeiten – auch wenn sich die Höhe der Tagespauschale im Nachhinein ändert. 
+    
+    5. Mitglieder die Arbeitsleistungen für die Werkstatt erbringen (mind. 45 Minuten) müssen am selben Tag für die private Nutzung keine Tagespauschale leisten. 
 
 3. Arbeitsleistung
     1. Alle ordentlichen Mitglieder mit Stimmrecht müssen jährlich vier Stunden Arbeit zum Erhalt, zur Pflege und/oder Erweiterung der vereinseigenen Einrichtungen und Anlagen erbringen. Die Arbeitsleistung ist im Eintrittsjahr für vollständige Quartale anteilig zu erbringen.
