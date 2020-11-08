@@ -29,7 +29,7 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
 
     4. Mitglieder können zur Entrichtung der Tagespauschale eine Zehnerkarte zum Preis von zehn Tagespauschalen (aktuell 10 x 3 Euro also 30 Euro) erwerben. Sie erlaubt dem Mitglied die zehnmalige Nutzung der Räumlichkeiten – auch wenn sich die Höhe der Tagespauschale im Nachhinein ändert. 
     
-    5. Mitglieder die Arbeitsleistungen für die Werkstatt erbringen (mind. 45 Minuten) müssen am selben Tag für die private Nutzung keine Tagespauschale leisten. 
+    5. Mitglieder, die Arbeitsleistungen für die Werkstatt erbringen (mind. 45 Minuten), müssen am selben Tag für die private Nutzung keine Tagespauschale leisten. 
 
 3. Arbeitsleistung
     1. Alle ordentlichen Mitglieder mit Stimmrecht müssen jährlich vier Stunden Arbeit zum Erhalt, zur Pflege und/oder Erweiterung der vereinseigenen Einrichtungen und Anlagen erbringen. Die Arbeitsleistung ist im Eintrittsjahr für vollständige Quartale anteilig zu erbringen.
