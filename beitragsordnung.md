@@ -10,6 +10,7 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
     3. Die Beitragszahlung der Mitglieder erfolgt entweder per Überweisung auf das Vereinskonto oder im Lastschriftverfahren. Sie erfolgt, je nach gewählter Zahlungsweise des Mitglieds, jeweils zum ersten Werktag des Monats oder im ersten Monat des laufenden Quartals, des Halbjahres oder des Jahres. Wird das Lastschriftverfahren gewählt, so erteilt das Mitglied dem Verein hierfür ein SEPA-Lastschriftmandat.
 
     4. Der monatlich berechnete Beitrag beträgt:
+    
         | Art der Mitgliedschaft  | Mitglieder mit Stimmrecht | Fördermitglieder |
         | ----------------------- | ------------------------- | ---------------- |
         | Erwachsene (ab vollendetem 18. Lebensjahr) | 25 Euro | Ab 12,50 Euro |
