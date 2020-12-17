@@ -1,9 +1,9 @@
 # Hygiene-Regeln
-***Fassung vom 1. November 2020***
+***Fassung vom 17. Dezember 2020***
 
 Habt ihr **Symptome einer akuten Atemwegserkrankung** oder ist für euch eine **behördlich Quarantäne angeordnet** worden, dürft ihr die Werkstatt nicht betreten.
 
-In der Werkstatt dürfen sich nur **Personen aus zwei Haushalten gleichzeitig** aufhalten. Die maximale Personenzahl darf dabei **vier Personen** nicht überschreiten.
+In der Werkstatt dürfen sich gleichzeitig nur **Personen aus einem Haushalt** aufhalten. Die maximale Personenzahl darf dabei **zwei Personen** nicht überschreiten.
 
 Es gibt am Eingang eine **Protokoll-Box mit Einwurf-Schlitz**. Ihr müsst **jeden Besuch mit Zeitpunkt des Ankommens und Zeitpunkt des Verlassens auf einem Zettel vermerken und in diese Protokoll-Box werfen**. Dieses Protokoll wird für 4 Wochen aufbewahrt und danach vernichtet.
 
@@ -49,10 +49,8 @@ Ausserdem:
  - In den Bädern befinden sich Spender für Einmal-Handtücher, die von den ajw aufgefüllt werden.
  - Die gemeinschaftliche Schutzausrüstung (PSA) (z.B. Gehörschutz) wurde aus dem Büro entfernt. Es muss eigene mitgebracht werden.
  - Im Lager im Bereich Putzmittel befinden sich
-   - Vliestücher zum Durchputzen und wegwerfen
    - Topfschwämme für hartnäckige Verschmutzungen
    - Ein Vorrat an Flächen- und Hand-Desinfektion, sollte dies von einem Gast gewünscht werden
    - Ein Vorrat an Putzhandschuhen, zur persönlichen Verwendung
-   - Einmal-Hygiene-Tücher, um viel benutzte Gegenstände zu reinigen
    - Reinigungsmittel
    - Einmal-Handtücher zum Nachfüllen
