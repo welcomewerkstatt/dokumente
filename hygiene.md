@@ -22,7 +22,7 @@ Bereitet keine Speisen in der Werkstatt zu.
 Beachtet auch die weiteren Hygiene-Hinweise auf der umliegenden Seite.
 
 
-***Benjamin Bunzel, Moritz Stückler, Thorben Hain (Vorstände)***
+***Benjamin Bunzel, Moritz Stückler, Thorben Hain (Vorstand)***
  
 # Hygiene-Hinweise
 
