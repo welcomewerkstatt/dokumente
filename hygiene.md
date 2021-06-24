@@ -5,7 +5,7 @@ Habt ihr **Symptome einer akuten Atemwegserkrankung** oder ist für euch eine **
 
 Analog zu den bundesweiten Kontaktbeschränkungen dürfen sich in der Werkstatt gleichzeitig insgesamt nur **fünf Personen** aufhalten damit die vorgeschriebenen Abstände eingehalten werden können. Auch vollständig Geimpfte und Genesene werden dabei mitgezählt.
 
-Es gibt am Eingang eine **Protokoll-Box mit Einwurf-Schlitz**. Ihr müsst **jeden Besuch mit Zeitpunkt des Ankommens und Zeitpunkt des Verlassens auf einem Zettel vermerken und in diese Protokoll-Box werfen**. Dieses Protokoll wird für 4 Wochen aufbewahrt und danach vernichtet.
+Es gibt am Eingang eine **Protokoll-Box mit Einwurf-Schlitz**. Ihr müsst **jeden Besuch mit Zeitpunkt des Ankommens und Zeitpunkt des Verlassens auf einem Zettel vermerken und in diese Protokoll-Box werfen**. Dieses Protokoll wird für 4 Wochen aufbewahrt und danach vernichtet. Alternativ gibt es an der Eingangstür einen QR-Code zum Check-In mit der Luca-App, die anstelle der Zettel verwendet werden kann.
 
 Tragt eine medizinische Mund-Nasen-Bedeckung, sobald ihr euch in der Werkstatt aufhaltet. In Ausnahmefällen kann diese am Arbeitsplatz abgenommen werden, muss aber wieder aufgesetzt werden, wenn ihr euch in der Werkstatt bewegt. Tragt die Mund-Nasen-Bedeckung bitte auch, wenn ihr bereits vollständig geimpft oder genesen seid. Habt ihr einen Beleg über medizinische Gründe, die es nicht erlauben eine Mund-Nasen-Bedeckung zu tragen, entfällt diese Regel.
 
