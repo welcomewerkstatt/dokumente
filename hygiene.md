@@ -23,7 +23,7 @@ Beachtet auch die weiteren Hygiene-Hinweise auf der umliegenden Seite.
 
 **Veranstaltungen**
 Für Veranstaltungen (z.B. offene Werkstatt oder Repaircafé) die in den Räumen der Werkstatt stattfinden, ist zusätlich zu den o.g. Regeln von allen Teilnehmern ein aktueller (maximal 48 Stunden alter) negativer Corona-Test oder ein (vollständiges) Impfzertifikat vorzulegen. Der Test muss in einem offiziellen Testzentrum durchgeführt worden sein.
-Die maximale Teilnehmerzahl für Veranstaltungen beträgt **10 Personen**.
+Die maximale Teilnehmerzahl für Veranstaltungen beträgt **zehn Personen**.
 
 ***Benjamin Bunzel, Moritz Stückler, Thorben Hain (Vorstand)***
  
