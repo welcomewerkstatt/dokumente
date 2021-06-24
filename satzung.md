@@ -8,8 +8,8 @@
 
 #### § 2 ZWECK DES VEREINS
 * Zweck des Vereins sind die Förderung von Bildung, sowie der Kunst und Kultur auf den Gebieten der Techniken aus Handwerk und Ingenieurwesen, deren Anwendung, Geschichte und Weiterentwicklung und des selbstständigen und kreativen Umgangs mit Informationstechnologien und Technik im Allgemeinen.
-* Ein weiterer Zweck stellt auch die Förderung der Hilfe für politisch, rassisch oder religiös Verfolgte und für Geflüchtete dar.
-* Im Verein sind alle Technikbegeisterten und Kreativen willkommen, ungeachtet ihres Geschlechts, Alters, ethnischer Zugehörigkeit, Nationalität, sozialer Herkunft, etwaiger Behinderung oder sexuellen Orientierung.
+* Ein weiterer Zweck stellt auch die Förderung der Hilfe für aus politischen, rassistischen oder religiösen Gründen Verfolgte.
+* Im Verein sind alle Technikbegeisterten und Kreativen willkommen, ungeachtet ihres Geschlechts oder Alters, ihrer ethnischen Zugehörigkeit, Nationalität, sozialen Herkunft, etwaigen Behinderung oder sexuellen Orientierung.
 * Der Satzungszweck wird insbesondere verwirklicht durch:
   1. Den Aufbau einer offenen Stadtteilwerkstatt, wo vor allem Kunst- und Bildungsprojekte realisiert werden.
   2. Die Förderung regionaler Wertschöpfung.
