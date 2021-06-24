@@ -3,11 +3,11 @@
 
 Habt ihr **Symptome einer akuten Atemwegserkrankung** oder ist für euch eine **behördlich Quarantäne angeordnet** worden, dürft ihr die Werkstatt nicht betreten.
 
-Analog zu den bundesweiten Kontaktbeschränkungen dürfen sich in der Werkstatt gleichzeitig nur **Personen aus zwei Haushalten** aufhalten. Die maximale Personenzahl darf dabei **fünf Personen** nicht überschreiten.
+Analog zu den bundesweiten Kontaktbeschränkungen dürfen sich in der Werkstatt gleichzeitig insgesamt nur **5 Personen** aufhalten. Vollständig geimpfte werden dabei nicht mitgezählt.
 
 Es gibt am Eingang eine **Protokoll-Box mit Einwurf-Schlitz**. Ihr müsst **jeden Besuch mit Zeitpunkt des Ankommens und Zeitpunkt des Verlassens auf einem Zettel vermerken und in diese Protokoll-Box werfen**. Dieses Protokoll wird für 4 Wochen aufbewahrt und danach vernichtet.
 
-Tragt eine Mund-Nasen-Bedeckung, sobald ihr euch in der Werkstatt aufhaltet. In Ausnahmefällen kann diese am Arbeitsplatz abgenommen werden, muss aber wieder aufgesetzt werden, wenn ihr euch in der Werkstatt bewegt. Habt ihr einen Beleg über medizinische Gründe, die es nicht erlauben eine Mund-Nasen-Bedeckung zu tragen, entfällt diese Regel.
+Tragt eine medizinische Mund-Nasen-Bedeckung, sobald ihr euch in der Werkstatt aufhaltet. In Ausnahmefällen kann diese am Arbeitsplatz abgenommen werden, muss aber wieder aufgesetzt werden, wenn ihr euch in der Werkstatt bewegt. Tragt den Mund- Nasenschutz bitte auch wenn ihr vollständig geimpft seid. Habt ihr einen Beleg über medizinische Gründe, die es nicht erlauben eine Mund-Nasen-Bedeckung zu tragen, entfällt diese Regel.
 
 Haltet einen **Mindestabstand von 1,5 Metern** zwischen allen Anwesenden ein, mit Ausnahme der Personen, die in derselben Wohnung leben oder zwischen denen ein familienrechtliches Sorge- oder Umgangsrechtsverhältnis besteht.
 
@@ -21,6 +21,9 @@ Bereitet keine Speisen in der Werkstatt zu.
 
 Beachtet auch die weiteren Hygiene-Hinweise auf der umliegenden Seite.
 
+**Veranstaltungen**
+Für Veranstaltungen (offene Werkstatt/Repaircafé) die in den Räumen der Werkstatt stattfinden ist zusätlich zu den o.g. Regeln von allen Teilnehmern ein negativer Corona-Test vorzulegen.
+Die maximale Teilnehmerzahl für Veranstaltungen beträgt **10 Personen**.
 
 ***Benjamin Bunzel, Moritz Stückler, Thorben Hain (Vorstand)***
  
