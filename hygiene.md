@@ -26,7 +26,7 @@ Bereitet keine Speisen in der Werkstatt zu.
 Beachtet auch die weiteren Hygiene-Hinweise auf der umliegenden Seite.
 
 **Veranstaltungen**
-Für Veranstaltungen (z.B. offene Werkstatt oder Repaircafé) die in den Räumen der Werkstatt stattfinden kontrolliert die Veranstaltungsleitung (z.B. die Aufsicht) die Impf- oder Genesenennachweise aller Personen die an der Veranstaltung teilnehmen.
+Für Veranstaltungen (z.B. offene Werkstatt oder Repaircafé) die in den Räumen der Werkstatt stattfinden kontrolliert die Veranstaltungsleitung (z.B. die Aufsicht) die Impf- oder Genesenennachweise aller Teilnehmer.
 Die maximale Teilnehmerzahl für Veranstaltungen beträgt **zwanzig Personen**.
 
 ***Benjamin Bunzel, Moritz Stückler, Thorben Hain (Vorstand)***
