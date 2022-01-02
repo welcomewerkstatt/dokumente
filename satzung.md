@@ -77,7 +77,7 @@
 * Die Einladung zur Mitgliederversammlung ist den Mitgliedern in Textform unter Angabe von Ort, Zeit und Tagesordnung mindestens vier Wochen vorher, bei außerordentlichen Mitgliederversammlungen mindestens zwei Wochen vorher zu übersenden.
 * Anträge zur Ergänzung der Tagesordnung können von jedem Mitglied eingebracht werden. Sie müssen eine Woche vor der Versammlung dem Vorstand in Textform vorliegen. Der Versammlungsleiter hat die Ergänzung zu Beginn der Versammlung bekannt zu geben.
 * Eine Übertragung des Stimmrechts auf ein anderes Mitglied ist möglich, wenn die Stimmübertragung zumindest in Textform nachgewiesen wird. Ein Mitglied kann maximal das Stimmrecht von zwei weiteren Mitgliedern übertragen bekommen.
-* Die Mitgliederversammlung ist beschlussfähig, wenn sie ordnungsgemäß einberufen wurde und mindestens drei Siebtel der stimmberechtigten Mitglieder anwesend sind. Sind weniger als drei Siebtel der stimmberechtigten Mitglieder anwesend, kann die Mitgliederversammlung erneut einberufen werden. Sie ist dann ohne Rücksicht auf die Zahl der anwesenden Mitglieder beschlussfähig. Auf diesen Umstand wird in der Einladung hingewiesen.
+* Die Mitgliederversammlung ist beschlussfähig, wenn sie ordnungsgemäß einberufen wurde und mindestens drei Siebtel der Stimmberechtigten vertreten sind. Sind weniger als drei Siebtel der stimmberechtigten Mitglieder vertreten, kann die Mitgliederversammlung erneut einberufen werden. Sie ist dann ohne Rücksicht auf die Zahl der vertretenen Mitglieder beschlussfähig. Auf diesen Umstand wird in der Einladung hingewiesen.
 * Auf Antrag eines Mitgliedes ist die Abstimmung geheim durchzuführen.
 
 #### § 10 VORSTAND
