@@ -1,5 +1,5 @@
 # Hygiene-Regeln
-***Fassung vom 29. November 2021***
+***Fassung vom 16. Januar 2022***
 
 Habt ihr **Symptome einer akuten Atemwegserkrankung** oder ist für euch eine **behördlich Quarantäne angeordnet** worden, dürft ihr die Werkstatt nicht betreten.
 
