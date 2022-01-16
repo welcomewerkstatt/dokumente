@@ -1,9 +1,9 @@
 # Hygiene-Regeln
-***Fassung vom 29. November 2021***
+***Fassung vom 16. Januar 2022***
 
 Habt ihr **Symptome einer akuten Atemwegserkrankung** oder ist für euch eine **behördlich Quarantäne angeordnet** worden, dürft ihr die Werkstatt nicht betreten.
 
-Zutritt zur Werkstatt erhalten nur Personen die vollständig **geimpft oder genesen** sind. 
+Zutritt zur Werkstatt erhalten nur Personen, die vollständig **geimpft oder genesen** sind und einen **negativen Covid-19-Test** einer offiziellen Teststation vorweisen können. Die Verpflichtung zur Vorlage eines Tests entfällt für alle, die bereits eine **Auffrischungsimpfung** erhalten haben.
 
 Als zusätzliche Sicherheitsmaßnahme dürfen sich in der Werkstatt gleichzeitig insgesamt nur **fünf Personen** aufhalten damit die vorgeschriebenen Abstände eingehalten werden können. Auch vollständig Geimpfte und Genesene werden dabei mitgezählt.
 
