@@ -5,7 +5,7 @@ Habt ihr **Symptome einer akuten Atemwegserkrankung** oder ist für euch eine **
 
 Zutritt zur Werkstatt erhalten nur Personen, die vollständig **geimpft oder genesen** sind und einen **negativen Covid-19-Test** einer offiziellen Teststation vorweisen können. Die Verpflichtung zur Vorlage eines Tests entfällt für alle, die bereits eine **Auffrischungsimpfung** erhalten haben und somit über mindestens **drei** Impfungen verfügen.
 
-Als zusätzliche Sicherheitsmaßnahme dürfen sich in der Werkstatt gleichzeitig insgesamt nur **zehn Personen** aufhalten damit die vorgeschriebenen Abstände eingehalten werden können. Auch vollständig Geimpfte und Genesene werden dabei mitgezählt.
+Als zusätzliche Sicherheitsmaßnahme dürfen sich in der Werkstatt gleichzeitig insgesamt nur **fünf Personen** aufhalten damit die vorgeschriebenen Abstände eingehalten werden können. Auch vollständig Geimpfte und Genesene werden dabei mitgezählt.
 
 Zur besseren Planung der Auslastung muss der interne Belegungs-Kalender in unserer Nextcloud verwendet werden. Tragt euch dort mit eurem Namen und ggf. dem Namen eurer Begleiter ein.
 
@@ -27,9 +27,9 @@ Beachtet auch die weiteren Hygiene-Hinweise auf der umliegenden Seite.
 
 **Veranstaltungen**
 Für Veranstaltungen (z.B. offene Werkstatt oder Repaircafé) die in den Räumen der Werkstatt stattfinden kontrolliert die Veranstaltungsleitung (z.B. die Aufsicht) die Impf- oder Genesenennachweise aller Teilnehmer.
-Die maximale Teilnehmerzahl für Veranstaltungen beträgt **dreißig Personen**.
+Die maximale Teilnehmerzahl für Veranstaltungen beträgt **zwanzig Personen**.
 
-***Benjamin Bunzel, Moritz Stückler, Thorben Hain (Vorstand)***
+***Benjamin Bunzel, Moritz Stückler, Thorben Hain, Andrea Kupke, Verena Sommer (Vorstand)***
  
 # Hygiene-Hinweise
 
