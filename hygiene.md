@@ -1,15 +1,15 @@
 # Hygiene-Regeln
-***Fassung vom 16. Januar 2022***
+***Fassung vom 14. Februar 2022***
 
 Habt ihr **Symptome einer akuten Atemwegserkrankung** oder ist für euch eine **behördlich Quarantäne angeordnet** worden, dürft ihr die Werkstatt nicht betreten.
 
-Zutritt zur Werkstatt erhalten nur Personen, die vollständig **geimpft oder genesen** sind und einen **negativen Covid-19-Test** einer offiziellen Teststation vorweisen können. Die Verpflichtung zur Vorlage eines Tests entfällt für alle, die bereits eine **Auffrischungsimpfung** erhalten haben.
+Zutritt zur Werkstatt erhalten nur Personen, die vollständig **geimpft oder genesen** sind und einen **negativen Covid-19-Test** einer offiziellen Teststation vorweisen können. Die Verpflichtung zur Vorlage eines Tests entfällt für alle, die bereits eine **Auffrischungsimpfung** erhalten haben und somit über mindestens **drei** Impfungen verfügen.
 
 Als zusätzliche Sicherheitsmaßnahme dürfen sich in der Werkstatt gleichzeitig insgesamt nur **fünf Personen** aufhalten damit die vorgeschriebenen Abstände eingehalten werden können. Auch vollständig Geimpfte und Genesene werden dabei mitgezählt.
 
 Zur besseren Planung der Auslastung muss der interne Belegungs-Kalender in unserer Nextcloud verwendet werden. Tragt euch dort mit eurem Namen und ggf. dem Namen eurer Begleiter ein.
 
-Es gibt am Eingang eine **Protokoll-Box mit Einwurf-Schlitz**. Ihr müsst **jeden Besuch mit Zeitpunkt des Ankommens und Zeitpunkt des Verlassens auf einem Zettel vermerken und in diese Protokoll-Box werfen**. Dieses Protokoll wird für 4 Wochen aufbewahrt und danach vernichtet. Alternativ gibt es an der Eingangstür einen QR-Code zum Check-In mit der Luca-App, die anstelle der Zettel verwendet werden kann.
+Am Eingang und in der Werkstatt hängen QR-Codes für die **Corona-Warn-App** benutzt nach Möglichkeit diese um euch einzuchecken. Die App ermöglicht es euch im Falle einer auftretenden Infektion eigenständig alle Personen zu warnen die mit euch in der Werkstatt waren. Die weitere Kontaktdatenerhebung (Luca/Zettel) entfällt damit.
 
 Tragt eine **medizinische Mund-Nasen-Bedeckung**, sobald ihr euch in der Werkstatt aufhaltet. In Ausnahmefällen kann diese am Arbeitsplatz abgenommen werden, muss aber wieder aufgesetzt werden, wenn ihr euch in der Werkstatt bewegt. Tragt die Mund-Nasen-Bedeckung bitte auch, wenn ihr bereits vollständig geimpft oder genesen seid. Habt ihr einen Beleg über medizinische Gründe, die es nicht erlauben eine Mund-Nasen-Bedeckung zu tragen, entfällt diese Regel.
 
@@ -29,7 +29,7 @@ Beachtet auch die weiteren Hygiene-Hinweise auf der umliegenden Seite.
 Für Veranstaltungen (z.B. offene Werkstatt oder Repaircafé) die in den Räumen der Werkstatt stattfinden kontrolliert die Veranstaltungsleitung (z.B. die Aufsicht) die Impf- oder Genesenennachweise aller Teilnehmer.
 Die maximale Teilnehmerzahl für Veranstaltungen beträgt **zwanzig Personen**.
 
-***Benjamin Bunzel, Moritz Stückler, Thorben Hain (Vorstand)***
+***Benjamin Bunzel, Moritz Stückler, Thorben Hain, Andrea Kupke, Verena Sommer (Vorstand)***
  
 # Hygiene-Hinweise
 
