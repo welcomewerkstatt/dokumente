@@ -1,17 +1,17 @@
 # Hygiene-Regeln
-***Fassung vom 14. Februar 2022***
+***Fassung vom 4. April 2022***
 
 Habt ihr **Symptome einer akuten Atemwegserkrankung** oder ist für euch eine **behördlich Quarantäne angeordnet** worden, dürft ihr die Werkstatt nicht betreten.
 
-Zutritt zur Werkstatt erhalten nur Personen, die vollständig **geimpft oder genesen** sind und einen **negativen Covid-19-Test** einer offiziellen Teststation vorweisen können. Die Verpflichtung zur Vorlage eines Tests entfällt für alle, die bereits eine **Auffrischungsimpfung** erhalten haben und somit über mindestens **drei** Impfungen verfügen.
+Zutritt zur Werkstatt erhalten nur Personen, die vollständig **geimpft oder genesen** sind.
 
-Als zusätzliche Sicherheitsmaßnahme dürfen sich in der Werkstatt gleichzeitig insgesamt nur **fünf Personen** aufhalten damit die vorgeschriebenen Abstände eingehalten werden können. Auch vollständig Geimpfte und Genesene werden dabei mitgezählt.
+Als zusätzliche Sicherheitsmaßnahme dürfen sich in der Werkstatt gleichzeitig insgesamt nur **acht Personen** aufhalten damit die vorgeschriebenen Abstände eingehalten werden können. Auch vollständig Geimpfte und Genesene werden dabei mitgezählt.
 
 Zur besseren Planung der Auslastung muss der interne Belegungs-Kalender in unserer Nextcloud verwendet werden. Tragt euch dort mit eurem Namen und ggf. dem Namen eurer Begleiter ein.
 
 Am Eingang und in der Werkstatt hängen QR-Codes für die **Corona-Warn-App** benutzt nach Möglichkeit diese um euch einzuchecken. Die App ermöglicht es euch im Falle einer auftretenden Infektion eigenständig alle Personen zu warnen die mit euch in der Werkstatt waren. Die weitere Kontaktdatenerhebung (Luca/Zettel) entfällt damit.
 
-Tragt eine **medizinische Mund-Nasen-Bedeckung**, sobald ihr euch in der Werkstatt aufhaltet. In Ausnahmefällen kann diese am Arbeitsplatz abgenommen werden, muss aber wieder aufgesetzt werden, wenn ihr euch in der Werkstatt bewegt. Tragt die Mund-Nasen-Bedeckung bitte auch, wenn ihr bereits vollständig geimpft oder genesen seid. Habt ihr einen Beleg über medizinische Gründe, die es nicht erlauben eine Mund-Nasen-Bedeckung zu tragen, entfällt diese Regel.
+Tragt eine **FFP2-Mund-Nasen-Bedeckung**, sobald ihr euch in der Werkstatt aufhaltet. (Sollte euch die Beschaffung einer FFP2-Maske Schwierigkeiten bereiten haben wir einen Vorrat in der Werkstatt). In Ausnahmefällen kann diese am Arbeitsplatz abgenommen werden, muss aber wieder aufgesetzt werden, wenn ihr euch in der Werkstatt bewegt. Tragt die Mund-Nasen-Bedeckung bitte auch, wenn ihr bereits vollständig geimpft oder genesen seid. Habt ihr einen Beleg über medizinische Gründe, die es nicht erlauben eine Mund-Nasen-Bedeckung zu tragen, entfällt diese Regel.
 
 Haltet einen **Mindestabstand von 1,5 Metern** zwischen allen Anwesenden ein, mit Ausnahme der Personen, die in derselben Wohnung leben oder zwischen denen ein familienrechtliches Sorge- oder Umgangsrechtsverhältnis besteht.
 
