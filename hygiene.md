@@ -1,7 +1,7 @@
 # Hygiene-Regeln
 ***Fassung vom 6. April 2022***
 
-Habt ihr **Symptome einer akuten Atemwegserkrankung** oder ist für euch eine **behördlich Quarantäne angeordnet** worden, dürft ihr die Werkstatt nicht betreten.
+Habt ihr **Symptome einer Atemwegserkrankung oder Grippe** oder wurde für euch eine **behördliche Selbstisolation angeordnet oder empfohlen**, dürft ihr die Werkstatt nicht betreten.
 
 Zutritt zur Werkstatt erhalten nur Personen, die einen **negativen Covid-19-Test** einer offiziellen Teststation vorweisen können oder die **vollständig geimpft (mind. zwei Mal) oder genesen** sind. Die Nachweise hierfür können in digitaler oder Papierform vorgelegt werden.
 
