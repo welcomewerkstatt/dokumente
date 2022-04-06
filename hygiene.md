@@ -3,25 +3,23 @@
 
 Habt ihr **Symptome einer akuten Atemwegserkrankung** oder ist für euch eine **behördlich Quarantäne angeordnet** worden, dürft ihr die Werkstatt nicht betreten.
 
-Zutritt zur Werkstatt erhalten nur Personen, die vollständig **geimpft oder genesen** sind.
+Zutritt zur Werkstatt erhalten nur Personen, die einen **negativen Covid-19-Test** einer offiziellen Teststation vorweisen können oder die **vollständig geimpft (mind. zwei Mal) oder genesen** sind. Die Nachweise hierfür sind in digitaler oder Papierform vorzulegen.
 
 Als zusätzliche Sicherheitsmaßnahme dürfen sich in der Werkstatt gleichzeitig insgesamt nur **acht Personen** aufhalten damit die vorgeschriebenen Abstände eingehalten werden können. Auch vollständig Geimpfte und Genesene werden dabei mitgezählt.
 
 Zur besseren Planung der Auslastung muss der interne Belegungs-Kalender in unserer Nextcloud verwendet werden. Tragt euch dort mit eurem Namen und ggf. dem Namen eurer Begleiter ein.
 
-Am Eingang und in der Werkstatt hängen QR-Codes für die **Corona-Warn-App** benutzt nach Möglichkeit diese um euch einzuchecken. Die App ermöglicht es euch im Falle einer auftretenden Infektion eigenständig alle Personen zu warnen die mit euch in der Werkstatt waren. Die weitere Kontaktdatenerhebung (Luca/Zettel) entfällt damit.
+Am Eingang und in der Werkstatt hängen QR-Codes für die **Corona-Warn-App** benutzt nach Möglichkeit diese um euch einzuchecken. Die App ermöglicht es euch im Falle einer auftretenden Infektion eigenständig alle Personen zu warnen die mit euch in der Werkstatt waren.
 
-Tragt eine **FFP2-Mund-Nasen-Bedeckung**, sobald ihr euch in der Werkstatt aufhaltet. (Sollte euch die Beschaffung einer FFP2-Maske Schwierigkeiten bereiten haben wir einen Vorrat in der Werkstatt). In Ausnahmefällen kann diese am Arbeitsplatz abgenommen werden, muss aber wieder aufgesetzt werden, wenn ihr euch in der Werkstatt bewegt. Tragt die Mund-Nasen-Bedeckung bitte auch, wenn ihr bereits vollständig geimpft oder genesen seid. Habt ihr einen Beleg über medizinische Gründe, die es nicht erlauben eine Mund-Nasen-Bedeckung zu tragen, entfällt diese Regel.
+Tragt eine **FFP2-Mund-Nasen-Bedeckung**, sobald ihr euch in der Werkstatt aufhaltet. (im Büro liegen zur Not welche, falls ihr eure vergessen habt). In Ausnahmefällen kann diese am Arbeitsplatz abgenommen werden, muss aber wieder aufgesetzt werden, wenn ihr euch in der Werkstatt bewegt. Tragt die Mund-Nasen-Bedeckung bitte auch, wenn ihr bereits vollständig geimpft oder genesen seid. Habt ihr einen Beleg über medizinische Gründe, die es nicht erlauben eine Mund-Nasen-Bedeckung zu tragen, entfällt diese Regel.
 
 Haltet einen **Mindestabstand von 1,5 Metern** zwischen allen Anwesenden ein, mit Ausnahme der Personen, die in derselben Wohnung leben oder zwischen denen ein familienrechtliches Sorge- oder Umgangsrechtsverhältnis besteht.
 
 In **Keller, Büro, Maschinenraum und Lager** ist aufgrund der beengten Lage besonders auf das Abstandsgebot zu achten (**möglichst nur eine Person gleichzeitig**).
 
-Gegenstände wie Werkzeuge und Maschinen sollten möglichst nicht von mehreren Personen gleichzeitig genutzt werden. **Reinigt sie gründlich vor und nach dem Benutzen**. Sofern sie benutzt wurden, müssen auch Türgriffe, Wasserhähne, Spülbecken, Klobrillen, Spülungen und Lichtschalter mindestens beim Abschließen der Werkstatt, besser mehrmals täglich, gründlich gereinigt werden.
+Gegenstände wie Werkzeuge und Maschinen sollten möglichst nicht von mehreren Personen gleichzeitig genutzt werden.
 
 Achtet darauf dass **alle Personen die Hygiene-Regeln einhalten und weist sie darauf hin, wenn sie es nicht tun**. Im Zweifelsfall, gebt Bedenken in der Chat-Gruppe weiter, oder wendet euch an den Vorstand. 
-
-Bereitet keine Speisen in der Werkstatt zu.
 
 Beachtet auch die weiteren Hygiene-Hinweise auf der umliegenden Seite.
 
@@ -54,7 +52,6 @@ Ausserdem:
 
  - In der Werkstatt sind Schilder angebracht, die auf den Mindestabstand von 1,5 m hinweisen.
  - In den Bädern befinden sich Spender für Einmal-Handtücher, die von den ajw aufgefüllt werden.
- - Die gemeinschaftliche Schutzausrüstung (PSA) (z.B. Gehörschutz) wurde aus dem Büro entfernt. Es muss eigene mitgebracht werden.
  - Im Lager im Bereich Putzmittel befinden sich
    - Topfschwämme für hartnäckige Verschmutzungen
    - Ein Vorrat an Flächen- und Hand-Desinfektion, sollte dies von einem Gast gewünscht werden
