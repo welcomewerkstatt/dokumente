@@ -3,7 +3,7 @@
 
 Habt ihr **Symptome einer akuten Atemwegserkrankung** oder ist für euch eine **behördlich Quarantäne angeordnet** worden, dürft ihr die Werkstatt nicht betreten.
 
-Zutritt zur Werkstatt erhalten nur Personen, die einen **negativen Covid-19-Test** einer offiziellen Teststation vorweisen können oder die **vollständig geimpft (mind. zwei Mal) oder genesen** sind. Die Nachweise hierfür sind in digitaler oder Papierform vorzulegen.
+Zutritt zur Werkstatt erhalten nur Personen, die einen **negativen Covid-19-Test** einer offiziellen Teststation vorweisen können oder die **vollständig geimpft (mind. zwei Mal) oder genesen** sind. Die Nachweise hierfür können in digitaler oder Papierform vorgelegt werden.
 
 Als zusätzliche Sicherheitsmaßnahme dürfen sich in der Werkstatt gleichzeitig insgesamt nur **acht Personen** aufhalten damit die vorgeschriebenen Abstände eingehalten werden können. Auch vollständig Geimpfte und Genesene werden dabei mitgezählt.
 
