@@ -17,8 +17,6 @@ Haltet einen **Mindestabstand von 1,5 Metern** zwischen allen Anwesenden ein, mi
 
 In **Keller, Büro, Maschinenraum und Lager** ist aufgrund der beengten Lage besonders auf das Abstandsgebot zu achten (**möglichst nur eine Person gleichzeitig**).
 
-Gegenstände wie Werkzeuge und Maschinen sollten möglichst nicht von mehreren Personen gleichzeitig genutzt werden.
-
 Achtet darauf dass **alle Personen die Hygiene-Regeln einhalten und weist sie darauf hin, wenn sie es nicht tun**. Im Zweifelsfall, gebt Bedenken in der Chat-Gruppe weiter, oder wendet euch an den Vorstand. 
 
 Beachtet auch die weiteren Hygiene-Hinweise auf der umliegenden Seite.
