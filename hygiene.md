@@ -1,5 +1,5 @@
 # Hygiene-Regeln
-***Fassung vom 6. April 2022***
+***Fassung vom 11. Juni 2022***
 
 Habt ihr **Symptome einer Atemwegserkrankung oder Grippe** oder wurde für euch eine **behördliche Selbstisolation angeordnet oder empfohlen**, dürft ihr die Werkstatt nicht betreten.
 
@@ -11,7 +11,7 @@ Zur besseren Planung der Auslastung muss der interne Belegungs-Kalender in unser
 
 Am Eingang und in der Werkstatt hängen QR-Codes für die **Corona-Warn-App** benutzt nach Möglichkeit diese um euch einzuchecken. Die App ermöglicht es euch im Falle einer auftretenden Infektion eigenständig alle Personen zu warnen die mit euch in der Werkstatt waren.
 
-Tragt eine **FFP2-Mund-Nasen-Bedeckung**, sobald ihr euch in der Werkstatt aufhaltet. Im Büro liegen zur Not welche, falls ihr eure vergessen habt. In Ausnahmefällen kann diese am Arbeitsplatz abgenommen werden, muss aber wieder aufgesetzt werden, wenn ihr euch in der Werkstatt bewegt. Tragt die Mund-Nasen-Bedeckung bitte auch, wenn ihr bereits vollständig geimpft oder genesen seid. Habt ihr einen Beleg über medizinische Gründe, die es nicht erlauben eine Mund-Nasen-Bedeckung zu tragen, entfällt diese Regel.
+Das Tragen einer Mund-Nasenbedeckung ist nicht mehr verpflichtend. Wenn es zu hoher Auslastung kommt oder der Sicherheitsabstand nicht eingehalten werden kann empfehlen wir trotzdem eine Mund-Nasenbedeckung aufzusetzen.
 
 Haltet einen **Mindestabstand von 1,5 Metern** zwischen allen Anwesenden ein, mit Ausnahme der Personen, die in derselben Wohnung leben oder zwischen denen ein familienrechtliches Sorge- oder Umgangsrechtsverhältnis besteht.
 
@@ -22,7 +22,7 @@ Achtet darauf dass **alle Personen die Hygiene-Regeln einhalten und weist sie da
 Beachtet auch die weiteren Hygiene-Hinweise auf der umliegenden Seite.
 
 **Veranstaltungen**
-Für Veranstaltungen (z.B. offene Werkstatt oder Repaircafé) die in den Räumen der Werkstatt stattfinden kontrolliert die Veranstaltungsleitung (z.B. die Aufsicht) die Impf- oder Genesenennachweise aller Teilnehmer.
+Für Veranstaltungen (z.B. offene Werkstatt oder Repaircafé) die in den Räumen der Werkstatt stattfinden kontrolliert die Veranstaltungsleitung (z.B. die Aufsicht) die Impf-, Test- oder Genesenennachweise aller Teilnehmer.
 Die maximale Teilnehmerzahl für Veranstaltungen beträgt **zwanzig Personen**.
 
 ***Benjamin Bunzel, Moritz Stückler, Thorben Hain, Andrea Kupke, Verena Sommer (Vorstand)***
