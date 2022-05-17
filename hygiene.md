@@ -11,7 +11,7 @@ Zur besseren Planung der Auslastung muss der interne Belegungs-Kalender in unser
 
 Am Eingang und in der Werkstatt hängen QR-Codes für die **Corona-Warn-App** benutzt nach Möglichkeit diese um euch einzuchecken. Die App ermöglicht es euch im Falle einer auftretenden Infektion eigenständig alle Personen zu warnen die mit euch in der Werkstatt waren.
 
-Das Tragen einer Mund-Nasenbedeckung ist nicht mehr verpflichtend. Wenn es zu hoher Auslastung kommt oder der Sicherheitsabstand nicht eingehalten werden kann empfehlen wir trotzdem eine Mund-Nasenbedeckung aufzusetzen.
+Das Tragen einer **Mund-Nasenbedeckung** ist nicht mehr verpflichtend. Wenn es zu hoher Auslastung kommt oder der Sicherheitsabstand nicht eingehalten werden kann, empfehlen wir trotzdem eine Mund-Nasenbedeckung aufzusetzen.
 
 Haltet einen **Mindestabstand von 1,5 Metern** zwischen allen Anwesenden ein, mit Ausnahme der Personen, die in derselben Wohnung leben oder zwischen denen ein familienrechtliches Sorge- oder Umgangsrechtsverhältnis besteht.
 
