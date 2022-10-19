@@ -30,16 +30,17 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
 
     4. Mitglieder können zur Entrichtung der Tagespauschale eine Zehnerkarte zum Preis von zehn Tagespauschalen (aktuell 10 x 3 Euro also 30 Euro) erwerben. Sie erlaubt dem Mitglied die zehnmalige Nutzung der Räumlichkeiten – auch wenn sich die Höhe der Tagespauschale im Nachhinein ändert. 
     
-    5. Mitglieder, die Arbeitsleistungen für die Werkstatt erbringen (mind. 45 Minuten), müssen am selben Tag für die private Nutzung keine Tagespauschale leisten. 
+    5. Mitglieder, die Arbeitsleistungen für die Werkstatt erbringen (mind. 45 Minuten), müssen am selben Tag für die private Nutzung keine Tagespauschale leisten.
 
 3. Arbeitsleistung
-    1. Alle ordentlichen Mitglieder mit Stimmrecht müssen jährlich vier Stunden Arbeit zum Erhalt, zur Pflege und/oder Erweiterung der vereinseigenen Einrichtungen und Anlagen erbringen. Die Arbeitsleistung ist im Eintrittsjahr für vollständige Quartale anteilig zu erbringen.
+
+    1. Alle ordentlichen Mitglieder mit Stimmrecht müssen jährlich acht Stunden Arbeit zum Erhalt, zur Pflege und/oder Erweiterung der vereinseigenen Einrichtungen und Anlagen erbringen. Die Arbeitsleistung ist im Eintrittsjahr für vollständige Quartale anteilig zu erbringen.
 
     2. Die Arbeitsstunden können zum Beispiel abgeleistet werden als Aufsichtsperson bei der "offenen Werkstatt" oder bei Kursen und Veranstaltungen, sowie beim Ausbau und der Pflege der Werkstatt.
 
-    3. Die Kontrolle erbrachter Arbeitsstunden obliegt dem Vorstand, dabei werden die Arbeitsstunden der Mitglieder durch den Vorstand oder den Mitgliederwart per E-Mail bestätigt.
+    3. Die Kontrolle erbrachter Arbeitsstunden obliegt dem Vorstand, dazu müssen die Arbeitsstunden der Mitglieder an die/den Mitgliederbeauftragte/n gemeldet werden.
 
-    4. Wird die Anzahl der Arbeitsstunden nicht erfüllt, erhebt der Verein pro nicht geleisteter Stunde eine Ausfallgebühr von 10 Euro. Der eventuell fällig werdende Betrag wird dem Mitglied per E-Mail mitgeteilt. Im folgenden Monat wird der Betrag durch das Mitglied in bar, per Lastschrift oder per Überweisung beglichen.
+    4. Wird die Anzahl der Arbeitsstunden nicht erfüllt, erhebt der Verein pro nicht geleisteter Stunde eine Ausfallgebühr von 12,50 Euro. Der eventuell fällig werdende Betrag wird dem Mitglied per E-Mail mitgeteilt. Im folgenden Monat wird der Betrag durch das Mitglied per Lastschrift oder per Überweisung beglichen.
 
 
 4. Neumitglieder
