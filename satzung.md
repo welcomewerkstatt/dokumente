@@ -53,14 +53,13 @@
 * Gegen den Beschluss des Vorstandes ist die Anrufung der Mitgliederversammlung zulässig. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft.
 
 #### § 6 MITGLIEDSBEITRÄGE
-* Mitglieder entrichten Beiträge nach Maßgabe der jeweils aktuellen Beitragsordnung. In Sonderfällen hat der Vorstand des Vereins das Recht eine Einzelfallregelung per einfachen Mehrheitsbeschluss festzulegen.
+* Mitglieder entrichten Beiträge nach Maßgabe der jeweils aktuellen Beitragsordnung. In Sonderfällen hat der Vorstand des Vereins das Recht eine Einzelfallregelung per einfachem Mehrheitsbeschluss festzulegen.
 
 #### § 7 FINANZIERUNG
-* Der Verein finanziert die Durchführung seiner Aufgaben durch Mitgliederbeiträge, Spenden, Umlagen und andere finanzielle Mittel, soweit sie nicht den gemeinnützigen Zwecken des Vereins widersprechen.
-* Nicht-künstlerische Projekte können auch für den Eigenbedarf realisiert werden, in diesem Falls allerdings gegen ein vom Verein festgelegtes Entgelt.
+* Der Verein finanziert die Durchführung seiner Aufgaben durch Mitgliedsbeiträge, Spenden, Fördermittel Umlagen und andere finanzielle Mittel, soweit sie nicht den gemeinnützigen Zwecken des Vereins widersprechen.
 
 #### § 8 ORGANE
-* Die Organe der Welcome Werkstatt sind die Mitgliederversammlung und der Vorstand.
+* Die Organe der Welcome Werkstatt sind die Mitgliederversammlung, der Vorstand und der Beirat.
 
 #### § 9 MITGLIEDERVERSAMMLUNG
 * Die ordentliche Mitgliederversammlung wird jedes Jahr vom Vorstand einberufen.
@@ -88,18 +87,22 @@
 * Die Mitglieder des Vorstandes sind jeweils einzelvertretungsberechtigt.
 * Der Vorstand besteht aus entweder drei oder fünf Personen und wird auf ein Jahr gewählt. Eine Wiederwahl ist möglich.
 * Der Vorstand kann sich eine Geschäftsordnung geben, in der insbesondere Geschäftsverteilung innerhalb des Vorstandes und die gegenseitige Vertretung der Vorstandsmitglieder zu regeln ist.
-* Der Vorstand kann beschließen, dass Vorstandsmitglieder eine angemessene Aufwandsentschädigung für geleistete Tätigkeiten erhalten, sofern dies die finanziellen Rahmenbedingungen des Vereins erlauben.  
+* Der Vorstand kann beschließen, Mitgliedern (inklusive Vorstands- und Beiratsmitgliedern) eine angemessene Aufwandsentschädigung für geleistete Tätigkeiten zu bezahlen, sofern dies die finanziellen Rahmenbedingungen des Vereins erlauben.  
 * Zu Sitzungen des Vorstandes ist eine Woche vorher in Textform zu laden. Mit dem Einverständnis aller Mitglieder des Vorstandes kann diese Frist verkürzt werden oder ganz entfallen.
 * Der Vorstand ist beschlussfähig, wenn die absolute Mehrheit der Vorstandsmitglieder anwesend ist.
 * Beschlüsse im Vorstand werden mit einfacher Mehrheit gefasst.
 * Beschlüsse des Vorstandes sind zu protokollieren.
 * Die Vorstandsmitglieder bleiben bis zu ihrer Amtsniederlegung oder Neuwahl im Amt.
 
-#### § 11 AUFLÖSUNG
+#### § 11 BEIRAT
+* Der Beirat unterstützt den Vorstand in seinen organisatorischen Tätigkeiten, sowohl bei der alltäglichen Vereinsarbeit als auch bei der Weiterentwicklung des Vereins.
+* Der Beirat besteht aus Vereinsmitgliedern, die sich freiwillig für dieses Amt zur Verfügung stellen und anschließend vom Vorstand berufen werden.
+
+#### § 12 AUFLÖSUNG
 * Zur Auflösung des Vereins bedarf es der Dreiviertelmehrheit der an der Mitgliederversammlung teilnehmenden Mitglieder und der Hälfte der Mitglieder.
 * Bei Auflösung des Vereins oder bei Wegfall seines bisherigen Zwecks fällt das Vermögen der Welcome Werkstatt an eine gemeinnützige Körperschaft zwecks Verwendung für die Förderung der Wissenschaft und Forschung. Die Mitgliederversammlung, die eine Auflösung des Vereins beschließt, hat hier darüber abzustimmen welche gemeinnützige Körperschaft ausgewählt wird.
 
-#### § 12 SONSTIGES
+#### § 13 SONSTIGES
 * Beschlüsse, durch die eine für steuerliche Vergünstigungen wesentliche Satzungsbestimmung geändert, ergänzt, in die Satzung eingefügt oder aufgehoben wird sowie die Auflösung des Vereins, die Überführung in eine andere Körperschaft oder die Übertragung des Vereinsvermögens als Ganzes ist der zuständigen Finanzbehörde durch den Vorstand unverzüglich mitzuteilen.
 * Vor Verteilung oder Übertragung des Vereinsvermögens ist die Unbedenklichkeitserklärung des zuständigen Finanzamtes einzuholen.
 
