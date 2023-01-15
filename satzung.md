@@ -88,6 +88,7 @@
 * Die Mitglieder des Vorstandes sind jeweils einzelvertretungsberechtigt.
 * Der Vorstand besteht aus entweder drei oder fünf Personen und wird auf ein Jahr gewählt. Eine Wiederwahl ist möglich.
 * Der Vorstand kann sich eine Geschäftsordnung geben, in der insbesondere Geschäftsverteilung innerhalb des Vorstandes und die gegenseitige Vertretung der Vorstandsmitglieder zu regeln ist.
+* Der Vorstand kann beschließen, dass Vorstandsmitglieder eine angemessene Aufwandsentschädigung für geleistete Tätigkeiten erhalten, sofern dies die finanziellen Rahmenbedingungen des Vereins erlauben.  
 * Zu Sitzungen des Vorstandes ist eine Woche vorher in Textform zu laden. Mit dem Einverständnis aller Mitglieder des Vorstandes kann diese Frist verkürzt werden oder ganz entfallen.
 * Der Vorstand ist beschlussfähig, wenn die absolute Mehrheit der Vorstandsmitglieder anwesend ist.
 * Beschlüsse im Vorstand werden mit einfacher Mehrheit gefasst.
