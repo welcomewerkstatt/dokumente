@@ -65,6 +65,7 @@
 #### § 9 MITGLIEDERVERSAMMLUNG
 * Die ordentliche Mitgliederversammlung wird jedes Jahr vom Vorstand einberufen.
 * Es kann eine außerordentliche Mitgliederversammlung einberufen werden. Dazu ist entweder ein Beschluss des Vorstandes oder ein Antrag von einem Drittel der Mitglieder notwendig.
+* Die ordentliche und die außerordentliche Mitgliederversammlung kann sowohl in Person als auch digital abgehalten werden. Es besteht ebenso die Möglichkeit einer hybriden Veranstaltung.
 * Die Mitgliederversammlung:
   * wählt und kontrolliert den Vorstand.
   * fasst Beschlüsse über die Änderung der Satzung und über die Auflösung des Vereins.
