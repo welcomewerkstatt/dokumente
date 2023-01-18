@@ -85,15 +85,17 @@
   * führt die Geschäfte des Vereins und fasst die erforderlichen Beschlüsse.
   * führt Aufzeichnungen über Ausgaben und Einnahmen des Vereins und stellt Spendenbescheinigungen aus.
 * Die Mitglieder des Vorstandes sind jeweils einzelvertretungsberechtigt.
-* Der Vorstand besteht aus entweder drei oder fünf Personen und wird auf ein Jahr gewählt. Eine Wiederwahl ist möglich.
-* Die Amtszeit des Vorstands beginnt mit der Wahl in der Mitgliederversammlung, er bleibt jedoch nach Ablauf der Amtszeit bis zu einer Neuwahl im Amt. 
+* Der Vorstand besteht aus entweder drei oder fünf Personen.
+* Der Vorstand wird auf ein Jahr gewählt. Eine Wiederwahl ist möglich.
+* Die Amtszeit des Vorstands beginnt mit der Wahl in der Mitgliederversammlung.
+* Nach Ende der Amtszeit bleibt der Vorstand bis zur nächsten Wahl kommissarisch im Amt.
 * Der Vorstand kann sich eine Geschäftsordnung geben, in der insbesondere Geschäftsverteilung innerhalb des Vorstandes und die gegenseitige Vertretung der Vorstandsmitglieder zu regeln ist.
 * Der Vorstand kann beschließen, Mitgliedern (inklusive Vorstands- und Beiratsmitgliedern) eine angemessene Aufwandsentschädigung für geleistete Tätigkeiten zu bezahlen, sofern dies die finanziellen Rahmenbedingungen des Vereins erlauben.  
 * Zu Sitzungen des Vorstandes ist eine Woche vorher in Textform zu laden. Mit dem Einverständnis aller Mitglieder des Vorstandes kann diese Frist verkürzt werden oder ganz entfallen.
 * Der Vorstand ist beschlussfähig, wenn die absolute Mehrheit der Vorstandsmitglieder anwesend ist.
 * Beschlüsse im Vorstand werden mit einfacher Mehrheit gefasst.
 * Beschlüsse des Vorstandes sind zu protokollieren.
-* Die Mitgliedschaft im Vorstand endet entweder mit der Beendigung der Vereinsmitgliedschaft oder durch Rücktritt aus dem Vorstand. In beiden Fällen bestimmen die verbleibenden Vorstandsmitglieder für die restliche Amtsdauer einen Nachfolger.
+* Die Mitgliedschaft im Vorstand endet mit Ablauf der Amtszeit oder vorzeitig mit Beendigung der Vereinsmitgliedschaft oder durch Rücktritt aus dem Vorstand. Im Fall der vorzeitigen Beendigung bestimmen die verbleibenden Vorstandsmitglieder einen Nachfolger für die restliche Amtszeit.
 
 #### § 11 BEIRAT
 * Der Beirat unterstützt den Vorstand in seinen organisatorischen Tätigkeiten, sowohl bei der alltäglichen Vereinsarbeit als auch bei der Weiterentwicklung des Vereins.
