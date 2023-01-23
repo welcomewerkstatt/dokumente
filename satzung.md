@@ -56,7 +56,7 @@
 * Mitglieder entrichten Beiträge nach Maßgabe der jeweils aktuellen Beitragsordnung. In Sonderfällen hat der Vorstand des Vereins das Recht eine Einzelfallregelung per einfachem Mehrheitsbeschluss festzulegen.
 
 #### § 7 FINANZIERUNG
-* Der Verein finanziert die Durchführung seiner Aufgaben durch Mitgliedsbeiträge, Spenden, Fördermittel Umlagen und andere finanzielle Mittel, soweit sie nicht den gemeinnützigen Zwecken des Vereins widersprechen.
+* Der Verein finanziert die Durchführung seiner Aufgaben durch Mitgliedsbeiträge, Spenden, Fördermittel, Umlagen und andere finanzielle Mittel, soweit sie nicht den gemeinnützigen Zwecken des Vereins widersprechen.
 
 #### § 8 ORGANE
 * Die Organe der Welcome Werkstatt sind die Mitgliederversammlung, der Vorstand und der Beirat.
