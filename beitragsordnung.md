@@ -6,17 +6,17 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
     1. Alle Vereinsmitglieder – sowohl Fördermitglieder als auch ordentliche Mitglieder mit Stimmrecht – zahlen einen Mitgliedsbeitrag. Der Mitgliedsbeitrag wird monatlich berechnet.
 
     2. Ordentliche Mitglieder können gemäß § 6 der Satzung einen formlosen Antrag auf Ermäßigung der Beitragshöhe stellen. Über den Antrag wird durch den Vorstand per einfachem Mehrheitsbeschluss binnen 14 Tagen entschieden. Der zu leistende Beitrag wird durch den Vorstand im Einzelfall festgelegt und dem Mitglied ohne Verzug formlos mitgeteilt.
-    
+
     3. Die Beitragszahlung der Mitglieder erfolgt entweder per Überweisung auf das Vereinskonto oder im Lastschriftverfahren. Sie erfolgt, je nach gewählter Zahlungsweise des Mitglieds, jeweils zum ersten Werktag des Monats. Wird das Lastschriftverfahren gewählt, so erteilt das Mitglied dem Verein hierfür ein SEPA-Lastschriftmandat.
 
     4. Der monatlich berechnete Beitrag beträgt:
     
-        | Art der Mitgliedschaft  | Mitglieder mit Stimmrecht |
+        | Art der Mitgliedschaft  | Beitrag |
         | ----------------------- | ------------------------- |
         | Erwachsene (ab vollendetem 18. Lebensjahr) | 25 Euro |
         | Partner/Familie (im gleichen Haushalt wie Mitglied) | 7,50 Euro |
         | Ermäßigter Tarif auf Antrag (Schüler:innen, Studierende und Menschen, die den vollen Beitrag nicht zahlen können) | 12,50 Euro |
-        | Fördermitglied (finanzielle Unterstützung – keine Nutzung der Werkstatt) | ab 7,50 Euro frei wählbar |
+        | Fördermitglied (finanzielle Unterstützung – keine Nutzung der Werkstatt, kein Stimmrecht) | ab 7,50 Euro frei wählbar |
 
 2. Tagespauschale
     1. Für die private Nutzung der Räumlichkeiten des Vereins entrichten ordentliche Mitglieder mit Stimmrecht eine reduzierte Tagespauschale von 3 Euro. Gäste entrichten pro Nutzungstag innerhalb der regulären Öffnungszeiten pauschal 10 Euro.
