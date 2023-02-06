@@ -57,4 +57,4 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
     3. Diese Beitragsordnung kann bei Notwendigkeit vom Vorstand per Beschluss geändert werden. Der Vorstand hat Änderungsbeschlüsse bezüglich dieser Beitragsordnung unverzüglich per E-Mail an alle Mitglieder mit bekannter E-Mail-Adresse sowie zusätzlich in der nächsten Mitgliederversammlung vorzulegen.
 
 
-Beschlossen am 26.2.2023
+Beschlossen am 10.2.2023
