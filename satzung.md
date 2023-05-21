@@ -53,18 +53,18 @@
 * Gegen den Beschluss des Vorstandes ist die Anrufung der Mitgliederversammlung zulässig. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft.
 
 #### § 6 MITGLIEDSBEITRÄGE
-* Mitglieder entrichten Beiträge nach Maßgabe der jeweils aktuellen Beitragsordnung. In Sonderfällen hat der Vorstand des Vereins das Recht eine Einzelfallregelung per einfachen Mehrheitsbeschluss festzulegen.
+* Mitglieder entrichten Beiträge nach Maßgabe der jeweils aktuellen Beitragsordnung. In Sonderfällen hat der Vorstand des Vereins das Recht eine Einzelfallregelung per einfachem Mehrheitsbeschluss festzulegen.
 
 #### § 7 FINANZIERUNG
-* Der Verein finanziert die Durchführung seiner Aufgaben durch Mitgliederbeiträge, Spenden, Umlagen und andere finanzielle Mittel, soweit sie nicht den gemeinnützigen Zwecken des Vereins widersprechen.
-* Nicht-künstlerische Projekte können auch für den Eigenbedarf realisiert werden, in diesem Falls allerdings gegen ein vom Verein festgelegtes Entgelt.
+* Der Verein finanziert die Durchführung seiner Aufgaben durch Mitgliedsbeiträge, Spenden, Fördermittel, Umlagen und andere finanzielle Mittel, soweit sie nicht den gemeinnützigen Zwecken des Vereins widersprechen.
 
 #### § 8 ORGANE
-* Die Organe der Welcome Werkstatt sind die Mitgliederversammlung und der Vorstand.
+* Die Organe der Welcome Werkstatt sind die Mitgliederversammlung, der Vorstand und der Beirat.
 
 #### § 9 MITGLIEDERVERSAMMLUNG
 * Die ordentliche Mitgliederversammlung wird jedes Jahr vom Vorstand einberufen.
 * Es kann eine außerordentliche Mitgliederversammlung einberufen werden. Dazu ist entweder ein Beschluss des Vorstandes oder ein Antrag von einem Drittel der Mitglieder notwendig.
+* Die ordentliche und die außerordentliche Mitgliederversammlung kann sowohl in Person als auch digital abgehalten werden. Es besteht ebenso die Möglichkeit einer hybriden Veranstaltung.
 * Die Mitgliederversammlung:
   * wählt und kontrolliert den Vorstand.
   * fasst Beschlüsse über die Änderung der Satzung und über die Auflösung des Vereins.
@@ -77,7 +77,7 @@
 * Die Einladung zur Mitgliederversammlung ist den Mitgliedern in Textform unter Angabe von Ort, Zeit und Tagesordnung mindestens vier Wochen vorher, bei außerordentlichen Mitgliederversammlungen mindestens zwei Wochen vorher zu übersenden.
 * Anträge zur Ergänzung der Tagesordnung können von jedem Mitglied eingebracht werden. Sie müssen eine Woche vor der Versammlung dem Vorstand in Textform vorliegen. Der Versammlungsleiter hat die Ergänzung zu Beginn der Versammlung bekannt zu geben.
 * Eine Übertragung des Stimmrechts auf ein anderes Mitglied ist möglich, wenn die Stimmübertragung zumindest in Textform nachgewiesen wird. Ein Mitglied kann maximal das Stimmrecht von zwei weiteren Mitgliedern übertragen bekommen.
-* Die Mitgliederversammlung ist beschlussfähig, wenn sie ordnungsgemäß einberufen wurde und mindestens drei Siebtel der Stimmberechtigten vertreten sind. Sind weniger als drei Siebtel der stimmberechtigten Mitglieder vertreten, kann die Mitgliederversammlung erneut einberufen werden. Sie ist dann ohne Rücksicht auf die Zahl der vertretenen Mitglieder beschlussfähig. Auf diesen Umstand wird in der Einladung hingewiesen.
+* Die Mitgliederversammlung ist beschlussfähig, wenn sie ordnungsgemäß einberufen wurde.
 * Auf Antrag eines Mitgliedes ist die Abstimmung geheim durchzuführen.
 
 #### § 10 VORSTAND
@@ -85,19 +85,27 @@
   * führt die Geschäfte des Vereins und fasst die erforderlichen Beschlüsse.
   * führt Aufzeichnungen über Ausgaben und Einnahmen des Vereins und stellt Spendenbescheinigungen aus.
 * Die Mitglieder des Vorstandes sind jeweils einzelvertretungsberechtigt.
-* Der Vorstand besteht aus entweder drei oder fünf Personen und wird auf ein Jahr gewählt. Eine Wiederwahl ist möglich.
+* Der Vorstand besteht aus entweder drei oder fünf Personen.
+* Der Vorstand wird auf ein Jahr gewählt. Eine Wiederwahl ist möglich.
+* Die Amtszeit des Vorstands beginnt mit der Wahl in der Mitgliederversammlung.
+* Nach Ende der Amtszeit bleibt der Vorstand bis zur nächsten Wahl kommissarisch im Amt.
 * Der Vorstand kann sich eine Geschäftsordnung geben, in der insbesondere Geschäftsverteilung innerhalb des Vorstandes und die gegenseitige Vertretung der Vorstandsmitglieder zu regeln ist.
+* Der Vorstand kann beschließen, Mitgliedern (inklusive Vorstands- und Beiratsmitgliedern) eine angemessene Aufwandsentschädigung für geleistete Tätigkeiten zu bezahlen, sofern dies die finanziellen Rahmenbedingungen des Vereins erlauben.  
 * Zu Sitzungen des Vorstandes ist eine Woche vorher in Textform zu laden. Mit dem Einverständnis aller Mitglieder des Vorstandes kann diese Frist verkürzt werden oder ganz entfallen.
 * Der Vorstand ist beschlussfähig, wenn die absolute Mehrheit der Vorstandsmitglieder anwesend ist.
 * Beschlüsse im Vorstand werden mit einfacher Mehrheit gefasst.
 * Beschlüsse des Vorstandes sind zu protokollieren.
-* Die Vorstandsmitglieder bleiben bis zu ihrer Amtsniederlegung oder Neuwahl im Amt.
+* Die Mitgliedschaft im Vorstand endet mit Ablauf der Amtszeit oder vorzeitig mit Beendigung der Vereinsmitgliedschaft oder durch Rücktritt aus dem Vorstand. Im Fall der vorzeitigen Beendigung bestimmen die verbleibenden Vorstandsmitglieder einen Nachfolger für die restliche Amtszeit.
 
-#### § 11 AUFLÖSUNG
+#### § 11 BEIRAT
+* Der Beirat unterstützt den Vorstand in seinen organisatorischen Tätigkeiten, sowohl bei der alltäglichen Vereinsarbeit als auch bei der Weiterentwicklung des Vereins.
+* Der Beirat besteht aus Vereinsmitgliedern, die sich freiwillig für dieses Amt zur Verfügung stellen und anschließend vom Vorstand berufen werden.
+
+#### § 12 AUFLÖSUNG
 * Zur Auflösung des Vereins bedarf es der Dreiviertelmehrheit der an der Mitgliederversammlung teilnehmenden Mitglieder und der Hälfte der Mitglieder.
 * Bei Auflösung des Vereins oder bei Wegfall seines bisherigen Zwecks fällt das Vermögen der Welcome Werkstatt an eine gemeinnützige Körperschaft zwecks Verwendung für die Förderung der Wissenschaft und Forschung. Die Mitgliederversammlung, die eine Auflösung des Vereins beschließt, hat hier darüber abzustimmen welche gemeinnützige Körperschaft ausgewählt wird.
 
-#### § 12 SONSTIGES
+#### § 13 SONSTIGES
 * Beschlüsse, durch die eine für steuerliche Vergünstigungen wesentliche Satzungsbestimmung geändert, ergänzt, in die Satzung eingefügt oder aufgehoben wird sowie die Auflösung des Vereins, die Überführung in eine andere Körperschaft oder die Übertragung des Vereinsvermögens als Ganzes ist der zuständigen Finanzbehörde durch den Vorstand unverzüglich mitzuteilen.
 * Vor Verteilung oder Übertragung des Vereinsvermögens ist die Unbedenklichkeitserklärung des zuständigen Finanzamtes einzuholen.
 
