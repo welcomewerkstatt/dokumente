@@ -95,7 +95,7 @@
 * Der Vorstand ist beschlussfähig, wenn die absolute Mehrheit der Vorstandsmitglieder anwesend ist.
 * Beschlüsse im Vorstand werden mit einfacher Mehrheit gefasst.
 * Beschlüsse des Vorstandes sind zu protokollieren.
-* Die Mitgliedschaft im Vorstand endet mit Ablauf der Amtszeit oder vorzeitig mit Beendigung der Vereinsmitgliedschaft oder durch Rücktritt aus dem Vorstand. Im Fall der vorzeitigen Beendigung bestimmen die verbleibenden Vorstandsmitglieder einen Nachfolger für die restliche Amtszeit.
+* Die Mitgliedschaft im Vorstand endet mit Ablauf der Amtszeit oder vorzeitig mit Beendigung der Vereinsmitgliedschaft oder durch Rücktritt aus dem Vorstand. Im Fall der vorzeitigen Beendigung beauftragen die verbleibenden Vorstandmitglieder ein Mitglied mit der Wahrnehmung dieser Aufgabe bis zur nächsten Mitgliederversammlung.
 
 #### § 11 BEIRAT
 * Der Beirat unterstützt den Vorstand in seinen organisatorischen Tätigkeiten, sowohl bei der alltäglichen Vereinsarbeit als auch bei der Weiterentwicklung des Vereins.
@@ -109,4 +109,4 @@
 * Beschlüsse, durch die eine für steuerliche Vergünstigungen wesentliche Satzungsbestimmung geändert, ergänzt, in die Satzung eingefügt oder aufgehoben wird sowie die Auflösung des Vereins, die Überführung in eine andere Körperschaft oder die Übertragung des Vereinsvermögens als Ganzes ist der zuständigen Finanzbehörde durch den Vorstand unverzüglich mitzuteilen.
 * Vor Verteilung oder Übertragung des Vereinsvermögens ist die Unbedenklichkeitserklärung des zuständigen Finanzamtes einzuholen.
 
-Fassung vom 12.02.2022
+Fassung vom 26.03.2023
