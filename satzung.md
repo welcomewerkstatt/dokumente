@@ -1,9 +1,12 @@
 # SATZUNG DES VEREINS WELCOME WERKSTATT E.V.
 
+#### PRÄAMBEL
+TBD
+
 #### § 1 NAME, SITZ, RECHTSFÄHIGKEIT, GESCHÄFTSJAHR
 * Der Verein führt den Namen „Welcome Werkstatt“.
 * Sitz des Vereins ist Hamburg.
-* Der Verein Welcome Werkstatt soll in das Vereinsregister des zuständigen Amtsgerichtes eingetragen werden und führt nach der Eintragung den Zusatz e.V.
+* Der Verein Welcome Werkstatt ist in dem Vereinsregister des zuständigen Amtsgerichtes eingetragen  und führt den Zusatz e.V.
 * Das Geschäftsjahr des Vereins ist das Kalenderjahr.
 
 #### § 2 ZWECK DES VEREINS
@@ -30,38 +33,37 @@
       * Bereitstellung von Arbeitsräumen/-materialien und Wissensvermittlung für Künstler.
 
 #### § 3 SELBSTLOSIGKEIT
-* Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung (§ 51 ff. AO).
+* Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung (§ 52 AO).
 * Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
 * Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 * Sollen ordentliche Mitglieder des Vereins oder Mitglieder der Organe des Vereins für die Ausübung genau zu definierender Tätigkeiten angestellt oder ihre Tätigkeit in anderer Form entlohnt bekommen, so ist hierfür ein Abschluss eines schriftlichen Vertrages erforderlich.
 
 #### § 4 MITGLIEDSCHAFT
-* Mitglieder können natürliche Personen und juristische Personen jedweder Rechtsform werden.
+* Natürliche Personen können Mitglieder werden.
 * Der Vorstand entscheidet auf Antrag in Textform des Antragstellers über die Aufnahme. Der Vorstand entscheidet nach freiem Ermessen. Der Beschluss wird dem Antragsteller in Textform mitgeteilt. Der Beitritt Jugendlicher bis zur Volljährigkeit bedarf der schriftlichen Zustimmung der Eltern oder der des gesetzlichen Vertreters. Die Mitgliedschaft beginnt mit der Zustellung der Aufnahmebestätigung durch den Vorstand bzw. zum darin genannten Eintrittsdatum.
 * Die Mitgliedschaft dauert mindestens ein Quartal eines Jahres, danach verlängert sie sich jeweils um ein Quartal eines Jahres.
 * Die Mitgliedschaft endet:
-  1. bei juristischen Personen mit deren Auflösung.
-  2. bei natürlichen Personen mit ihrem Tod.
-  3. nach Kündigung eines Mitgliedes gegenüber dem Vorstand. Die Kündigung muss mindestens 14 Tage vor Ablauf des Mitgliedzeitraumes eingegangen sein, die Beitragspflicht für das laufende Quartal bleibt hiervon unberührt. Die Kündigung muss in Textform erfolgen.
-  4. bei Mitgliedern, die sich mit mehr als drei Monatsbeiträgen im Verzug befinden, automatisch.
-  5. durch Ausschluss.
-* Die Mitgliedschaft kann auch eine Fördermitgliedschaft sein. Fördermitglieder haben kein Stimmrecht auf Mitgliederversammlungen. Die Fördermitgliedschaft kann bereits beim Eintritt in den Verein gewählt werden. Jedes Mitglied kann außerdem jederzeit durch Antrag in Textform an den Vorstand zwischen Fördermitgliedschaft und normaler Mitgliedschaft wechseln. Ein Wechsel wird jeweils mit Zugang des Antrages an den Vorstand gültig.
-* Alle ordentlichen Mitglieder haben das Recht, an öffentlichen Veranstaltungen des Vereins teilzunehmen und die Leistungen des Vereins in Anspruch zu nehmen. Sie haben Rechte und Pflichten aus dieser Satzung, insbesondere haben sie ein Stimmrecht.
+  1. bei natürlichen Personen mit ihrem Tod.
+  2. nach Kündigung eines Mitgliedes gegenüber dem Vorstand. Die Kündigung muss mindestens 14 Tage vor Ablauf des Mitgliedzeitraumes eingegangen sein, die Beitragspflicht für das laufende Quartal bleibt hiervon unberührt. Die Kündigung muss in Textform erfolgen.
+  3. durch Ausschluss.
 
-#### § 5 AUSSCHLUSS EINES MITGLIEDS
-* Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt oder wenn ein sonstiger wichtiger Grund vorliegt. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in Textform unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
+#### § 5 FÖRDERMITGLIEDER
+* Die Mitgliedschaft kann auch eine Fördermitgliedschaft sein. Fördermitglieder haben kein Stimmrecht auf Mitgliederversammlungen. Die Fördermitgliedschaft kann bereits beim Eintritt in den Verein gewählt werden. Jedes Mitglied kann außerdem jederzeit durch Antrag in Textform an den Vorstand zwischen Fördermitgliedschaft und normaler Mitgliedschaft wechseln. Ein Wechsel wird jeweils mit Zugang des Antrages an den Vorstand gültig.
+
+#### § 6 AUSSCHLUSS EINES MITGLIEDS
+* Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt, Mitgliedsbeiträge nicht entrichtet oder wenn ein sonstiger wichtiger Grund vorliegt. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in Textform unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
 * Gegen den Beschluss des Vorstandes ist die Anrufung der Mitgliederversammlung zulässig. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft.
 
-#### § 6 MITGLIEDSBEITRÄGE
-* Mitglieder entrichten Beiträge nach Maßgabe der jeweils aktuellen Beitragsordnung. In Sonderfällen hat der Vorstand des Vereins das Recht eine Einzelfallregelung per einfachem Mehrheitsbeschluss festzulegen.
+#### § 7 MITGLIEDSBEITRÄGE
+* Mitglieder entrichten Beiträge nach Maßgabe der jeweils aktuellen Beitragsordnung.
 
-#### § 7 FINANZIERUNG
-* Der Verein finanziert die Durchführung seiner Aufgaben durch Mitgliedsbeiträge, Spenden, Fördermittel, Umlagen und andere finanzielle Mittel, soweit sie nicht den gemeinnützigen Zwecken des Vereins widersprechen.
+#### § 8 FINANZIERUNG
+* Der Verein finanziert die Durchführung seiner Aufgaben durch Mitgliedsbeiträge, Spenden, Fördermittel und Zuwendungen.
 
-#### § 8 ORGANE
+#### § 9 ORGANE
 * Die Organe der Welcome Werkstatt sind die Mitgliederversammlung, der Vorstand und der Beirat.
 
-#### § 9 MITGLIEDERVERSAMMLUNG
+#### § 10 MITGLIEDERVERSAMMLUNG
 * Die ordentliche Mitgliederversammlung wird jedes Jahr vom Vorstand einberufen.
 * Es kann eine außerordentliche Mitgliederversammlung einberufen werden. Dazu ist entweder ein Beschluss des Vorstandes oder ein Antrag von einem Drittel der Mitglieder notwendig.
 * Die ordentliche und die außerordentliche Mitgliederversammlung kann sowohl in Person als auch digital abgehalten werden. Es besteht ebenso die Möglichkeit einer hybriden Veranstaltung.
@@ -80,7 +82,7 @@
 * Die Mitgliederversammlung ist beschlussfähig, wenn sie ordnungsgemäß einberufen wurde.
 * Auf Antrag eines Mitgliedes ist die Abstimmung geheim durchzuführen.
 
-#### § 10 VORSTAND
+#### § 11 VORSTAND
 * Der Vorstand:
   * führt die Geschäfte des Vereins und fasst die erforderlichen Beschlüsse.
   * führt Aufzeichnungen über Ausgaben und Einnahmen des Vereins und stellt Spendenbescheinigungen aus.
@@ -97,16 +99,16 @@
 * Beschlüsse des Vorstandes sind zu protokollieren.
 * Die Mitgliedschaft im Vorstand endet mit Ablauf der Amtszeit oder vorzeitig mit Beendigung der Vereinsmitgliedschaft oder durch Rücktritt aus dem Vorstand. Im Fall der vorzeitigen Beendigung beauftragen die verbleibenden Vorstandmitglieder ein Mitglied mit der Wahrnehmung dieser Aufgabe bis zur nächsten Mitgliederversammlung.
 
-#### § 11 BEIRAT
+#### § 12 BEIRAT
 * Der Beirat unterstützt den Vorstand in seinen organisatorischen Tätigkeiten, sowohl bei der alltäglichen Vereinsarbeit als auch bei der Weiterentwicklung des Vereins.
 * Der Beirat besteht aus Vereinsmitgliedern, die sich freiwillig für dieses Amt zur Verfügung stellen und anschließend vom Vorstand berufen werden.
 
-#### § 12 AUFLÖSUNG
+#### § 13 AUFLÖSUNG
 * Zur Auflösung des Vereins bedarf es der Dreiviertelmehrheit der an der Mitgliederversammlung teilnehmenden Mitglieder und der Hälfte der Mitglieder.
 * Bei Auflösung des Vereins oder bei Wegfall seines bisherigen Zwecks fällt das Vermögen der Welcome Werkstatt an eine gemeinnützige Körperschaft zwecks Verwendung für die Förderung der Wissenschaft und Forschung. Die Mitgliederversammlung, die eine Auflösung des Vereins beschließt, hat hier darüber abzustimmen welche gemeinnützige Körperschaft ausgewählt wird.
 
-#### § 13 SONSTIGES
+#### § 14 SONSTIGES
 * Beschlüsse, durch die eine für steuerliche Vergünstigungen wesentliche Satzungsbestimmung geändert, ergänzt, in die Satzung eingefügt oder aufgehoben wird sowie die Auflösung des Vereins, die Überführung in eine andere Körperschaft oder die Übertragung des Vereinsvermögens als Ganzes ist der zuständigen Finanzbehörde durch den Vorstand unverzüglich mitzuteilen.
 * Vor Verteilung oder Übertragung des Vereinsvermögens ist die Unbedenklichkeitserklärung des zuständigen Finanzamtes einzuholen.
 
-Fassung vom 26.03.2023
+Fassung vom 09.06.2023
