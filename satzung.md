@@ -62,23 +62,32 @@
 * Die Organe der Welcome Werkstatt sind die Mitgliederversammlung, der Vorstand und der Beirat.
 
 #### § 9 MITGLIEDERVERSAMMLUNG
-* Die ordentliche Mitgliederversammlung wird jedes Jahr vom Vorstand einberufen.
-* Es kann eine außerordentliche Mitgliederversammlung einberufen werden. Dazu ist entweder ein Beschluss des Vorstandes oder ein Antrag von einem Drittel der Mitglieder notwendig.
-* Die ordentliche und die außerordentliche Mitgliederversammlung kann sowohl in Person als auch digital abgehalten werden. Es besteht ebenso die Möglichkeit einer hybriden Veranstaltung.
+Aufgaben der Mitgliederversammlung
 * Die Mitgliederversammlung:
+  * entscheidet über die Grundsätze der Vereinsarbeit.
   * wählt und kontrolliert den Vorstand.
-  * fasst Beschlüsse über die Änderung der Satzung und über die Auflösung des Vereins.
+  * fasst Beschlüsse über die Änderung der Satzung
+  * fasst beschlüsse über die Auflösung des Vereins.
   * wählt einen oder mehrere unabhängige Kassenprüfer aus den Reihen der ordentlichen Mitglieder.
-  * prüft und genehmigt die Jahresabschlussrechnung des Vorstandes und erteilt die Entlastung.
-  * entscheidet in allen Fällen, in denen nicht die Zuständigkeit eines anderen Organes bestimmt ist.
-  * trifft Mehrheitsentscheidungen mit der Hälfte der teilnehmenden Mitglieder.
-  * wird schriftlich protokolliert. Das Protokoll ist vom Versammlungsleiter und dem Schriftführer zu unterzeichnen.
-  * kann sich eine Geschäftsordnung geben.
-* Die Einladung zur Mitgliederversammlung ist den Mitgliedern in Textform unter Angabe von Ort, Zeit und Tagesordnung mindestens vier Wochen vorher, bei außerordentlichen Mitgliederversammlungen mindestens zwei Wochen vorher zu übersenden.
-* Anträge zur Ergänzung der Tagesordnung können von jedem Mitglied eingebracht werden. Sie müssen eine Woche vor der Versammlung dem Vorstand in Textform vorliegen. Der Versammlungsleiter hat die Ergänzung zu Beginn der Versammlung bekannt zu geben.
-* Eine Übertragung des Stimmrechts auf ein anderes Mitglied ist möglich, wenn die Stimmübertragung zumindest in Textform nachgewiesen wird. Ein Mitglied kann maximal das Stimmrecht von zwei weiteren Mitgliedern übertragen bekommen.
+  * entscheidet über die Jahresabschlussrechnung des Vorstandes und dessen Entlastung.
+    
+Verfahren der Mitgliederversammlung
+* Die ordentliche Mitgliederversammlung findet ein Mal pro Kalenderjahr statt.
+* Die außerordentliche Mitgliederversammlung kann auf Beschluss des Vorstandes oder auf Verlangen der Mitglieder des Vorstands einberufen werden.
+* Dem Vorstand obliegt die Einberufung.
+* Der Vorstand entscheidet über die Form der Mitgliederversammlung (vor Ort, digital oder hybrid). 
+* Die Einladung zur Mitgliederversammlung ist den Mitgliedern in Textform unter Angabe von Ort, Veranstaltungsform, Zeit und Tagesordnung mindestens vier Wochen 
+  vorher, bei außerordentlichen Mitgliederversammlungen mindestens zwei Wochen vorher zu übersenden.
+* Anträge können von jedem Mitglied eingebracht werden. Sie müssen eine Woche vor der Versammlung dem Vorstand in Textform   
+  vorliegen. Der Vorstand leitet etwaige Anträge spätestens sechs Tage vor der Mitgliederversammlung an die Mitglieder in Textform weiter.
 * Die Mitgliederversammlung ist beschlussfähig, wenn sie ordnungsgemäß einberufen wurde.
-* Auf Antrag eines Mitgliedes ist die Abstimmung geheim durchzuführen.
+* wird schriftlich protokolliert. Das Protokoll ist vom Versammlungsleiter und dem Schriftführer zu unterzeichnen.  
+* trifft Mehrheitsentscheidungen mit einfacher Mehrheit.
+* Zu einem Beschluss, der eine Änderung der Satzung enthält, ist eine Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich.
+* Zur Änderung des Zweckes des Vereins ist eine Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich.
+* Eine Übertragung des Stimmrechts auf ein anderes Mitglied ist möglich, wenn die Stimmübertragung zumindest in Textform nachgewiesen wird. Ein Mitglied kann 
+  maximal das Stimmrecht von zwei weiteren Mitgliedern übertragen bekommen.
+* Auf Antrag eines Mitgliedes ist die Abstimmung oder Wahl geheim durchzuführen.
 
 #### § 10 VORSTAND
 * Der Vorstand:
