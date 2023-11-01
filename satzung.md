@@ -88,14 +88,14 @@
 * Der Vorstand besteht aus entweder drei oder fünf Personen.
 * Der Vorstand wird auf ein Jahr gewählt. Eine Wiederwahl ist möglich.
 * Die Amtszeit des Vorstands beginnt mit der Wahl in der Mitgliederversammlung.
-* Nach Ende der Amtszeit bleibt der Vorstand bis zur nächsten Wahl kommissarisch im Amt.
+* Nach Ende der regulären Amtszeit bleibt der Vorstand bis zur nächsten Wahl kommissarisch im Amt.
+* Scheidet ein Mitglied vorzeitig aus dem Vorstand aus (z.B. Kündigung der Vereinsmitgliedschaft oder Rücktritt aus dem Vorstand) beauftragen die verbleibenden Vorstandmitglieder ein Mitglied mit der Wahrnehmung dieser Aufgabe bis zur nächsten Mitgliederversammlung.
 * Der Vorstand kann sich eine Geschäftsordnung geben, in der insbesondere Geschäftsverteilung innerhalb des Vorstandes und die gegenseitige Vertretung der Vorstandsmitglieder zu regeln ist.
-* Der Vorstand kann beschließen, Mitgliedern (inklusive Vorstands- und Beiratsmitgliedern) eine angemessene Aufwandsentschädigung für geleistete Tätigkeiten zu bezahlen, sofern dies die finanziellen Rahmenbedingungen des Vereins erlauben.  
+* Der Vorstand kann beschließen, Mitgliedern (inklusive Vorstands- und Beiratsmitgliedern) eine angemessene Aufwandsentschädigung für geleistete Tätigkeiten zu bezahlen, sofern dies die finanziellen Rahmenbedingungen des Vereins erlauben.
 * Zu Sitzungen des Vorstandes ist eine Woche vorher in Textform zu laden. Mit dem Einverständnis aller Mitglieder des Vorstandes kann diese Frist verkürzt werden oder ganz entfallen.
 * Der Vorstand ist beschlussfähig, wenn die absolute Mehrheit der Vorstandsmitglieder anwesend ist.
 * Beschlüsse im Vorstand werden mit einfacher Mehrheit gefasst.
 * Beschlüsse des Vorstandes sind zu protokollieren.
-* Die Mitgliedschaft im Vorstand endet mit Ablauf der Amtszeit oder vorzeitig mit Beendigung der Vereinsmitgliedschaft oder durch Rücktritt aus dem Vorstand. Im Fall der vorzeitigen Beendigung beauftragen die verbleibenden Vorstandmitglieder ein Mitglied mit der Wahrnehmung dieser Aufgabe bis zur nächsten Mitgliederversammlung.
 
 #### § 11 AUFLÖSUNG
 * Zur Auflösung des Vereins bedarf es der Dreiviertelmehrheit der an der Mitgliederversammlung teilnehmenden Mitglieder und der Hälfte der Mitglieder.
