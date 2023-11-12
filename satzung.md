@@ -66,15 +66,15 @@ Aufgaben der Mitgliederversammlung
 * Die Mitgliederversammlung:
   * entscheidet über die Grundsätze der Vereinsarbeit.
   * wählt und kontrolliert den Vorstand.
-  * fasst Beschlüsse über die Änderung der Satzung
-  * fasst beschlüsse über die Auflösung des Vereins.
-  * wählt einen oder mehrere unabhängige Kassenprüfer aus den Reihen der ordentlichen Mitglieder.
+  * fasst Beschlüsse über die Auflösung des Vereins.
+  * wählt die Kassenprüfenden.
   * entscheidet über die Jahresabschlussrechnung des Vorstandes und dessen Entlastung.
+  * fasst Beschlüsse über die Änderungen der Beitragsordnung. 
     
 Verfahren der Mitgliederversammlung
 * Die ordentliche Mitgliederversammlung findet ein Mal pro Kalenderjahr statt.
-* Die außerordentliche Mitgliederversammlung kann auf Beschluss des Vorstandes oder auf Verlangen der Mitglieder des Vorstands einberufen werden.
-* Dem Vorstand obliegt die Einberufung.
+* Eine außerordentliche Mitgliederversammlung wird auf Beschluss des Vorstandes oder auf Verlangen von einem Zehntel der Mitglieder des Vereins in Textform unter Angabe des Zweckes und der Gründe durchgeführt werden.
+* Dem Vorstand obliegt die Einberufung der Mitgliederversammlung.
 * Der Vorstand entscheidet über die Form der Mitgliederversammlung (vor Ort, digital oder hybrid). 
 * Die Einladung zur Mitgliederversammlung ist den Mitgliedern in Textform unter Angabe von Ort, Veranstaltungsform, Zeit und Tagesordnung mindestens vier Wochen 
   vorher, bei außerordentlichen Mitgliederversammlungen mindestens zwei Wochen vorher zu übersenden.
@@ -86,12 +86,17 @@ Verfahren der Mitgliederversammlung
 * Zu einem Beschluss, der eine Änderung der Satzung enthält, ist eine Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich.
 * Zur Änderung des Zweckes des Vereins ist eine Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich.
 * Eine Übertragung des Stimmrechts auf ein anderes Mitglied ist möglich, wenn die Stimmübertragung zumindest in Textform nachgewiesen wird. Ein Mitglied kann 
-  maximal das Stimmrecht von zwei weiteren Mitgliedern übertragen bekommen.
+  maximal das Stimmrecht von einem weiteren Mitglied übertragen bekommen.
 * Auf Antrag eines Mitgliedes ist die Abstimmung oder Wahl geheim durchzuführen.
-
-#### § 10 VORSTAND
+  
+#### § 10 KASSENPRÜFUNG
+* Die Mitgliederversammlung wählt für das laufende Geschäftsjahr einen Kassenprüfenden und eine Vertretung, die nicht Mitglied des Vorstands oder Beitrat sein dürfen.
+* Die Wiederwahl ist zulässig.
+* Die Kassenprüfenden prüfen einmal jährlich die gesamte Vereinskasse mit allen Konten, Buchungsunterlagen und Belegen und erstatten der Mitgliederversammlung darüber einen Bericht. Die Kassenprüfenden sind jederzeit zur umfassenden Prüfung aller Kassen und aller Unterlagen in sachlicher und rechnerischer Hinsicht berechtigt.
+  
+#### § 11 VORSTAND
 * Der Vorstand:
-  * führt die Geschäfte des Vereins und fasst die erforderlichen Beschlüsse.
+  * führt die Geschäfte des Vereins, organisiert seine Aufgabenverteilung und fasst die erforderlichen Beschlüsse.
   * führt Aufzeichnungen über Ausgaben und Einnahmen des Vereins und stellt Spendenbescheinigungen aus.
 * Die Mitglieder des Vorstandes sind jeweils einzelvertretungsberechtigt.
 * Der Vorstand besteht aus entweder drei oder fünf Personen.
@@ -99,21 +104,21 @@ Verfahren der Mitgliederversammlung
 * Die Amtszeit des Vorstands beginnt mit der Wahl in der Mitgliederversammlung.
 * Nach Ende der regulären Amtszeit bleibt der Vorstand bis zur nächsten Wahl kommissarisch im Amt.
 * Scheidet ein Mitglied vorzeitig aus dem Vorstand aus (z.B. Kündigung der Vereinsmitgliedschaft oder Rücktritt aus dem Vorstand) beauftragen die verbleibenden Vorstandsmitglieder ein Mitglied mit der Wahrnehmung dieser Aufgabe bis zur nächsten Mitgliederversammlung.
-* Der Vorstand kann sich eine Geschäftsordnung geben, in der insbesondere die Geschäftsverteilung innerhalb des Vorstandes und die gegenseitige Vertretung der Vorstandsmitglieder zu regeln ist.
-* Der Vorstand kann beschließen, Mitgliedern (inklusive Vorstands- und Beiratsmitgliedern) eine angemessene Aufwandsentschädigung für geleistete Tätigkeiten zu bezahlen, sofern dies die finanziellen Rahmenbedingungen des Vereins erlauben.
+* Der Vorstand kann beschließen, Mitgliedern (inklusive Vorstands- und Beiratsmitgliedern) eine angemessene Aufwandsentschädigung für geleistete Tätigkeiten zu bezahlen, sofern dies die finanziellen Rahmenbedingungen des Vereins erlauben. Der Vorstand informiert die Mitgliederversammlung über geleistete Aufwandsentschädigungen des letzten Geschäftsjahres.  
 * Zu Sitzungen des Vorstandes ist eine Woche vorher in Textform zu laden. Mit dem Einverständnis aller Mitglieder des Vorstandes kann diese Frist verkürzt werden oder ganz entfallen.
 * Der Vorstand ist beschlussfähig, wenn die absolute Mehrheit der Vorstandsmitglieder anwesend ist.
 * Beschlüsse im Vorstand werden mit einfacher Mehrheit gefasst.
 * Beschlüsse des Vorstandes sind zu protokollieren.
-#### § 11 BEIRAT
-* Der Beirat unterstützt den Vorstand in seinen organisatorischen Tätigkeiten, sowohl bei der alltäglichen Vereinsarbeit als auch bei der Weiterentwicklung des Vereins.
-* Der Beirat besteht aus Vereinsmitgliedern, die sich freiwillig für dieses Amt zur Verfügung stellen und anschließend vom Vorstand berufen werden.
 
-#### § 12 AUFLÖSUNG
+#### § 12 BEIRAT
+* Der Beirat unterstützt den Vorstand in seinen organisatorischen Tätigkeiten bei der alltäglichen Vereinsarbeit und berät den Vorstand bei der Weiterentwicklung des Vereins.
+* Der Beirat besteht aus Vereinsmitgliedern, die sich freiwillig für dieses Amt zur Verfügung stellen und anschließend vom Vorstand berufen werden. Die zur Verfügung stellung sowie die Berufung kann beidseitig widerrufen werden.  
+
+#### § 13 AUFLÖSUNG
 * Zur Auflösung des Vereins bedarf es der Dreiviertelmehrheit der an der Mitgliederversammlung teilnehmenden Mitglieder und der Hälfte der Mitglieder.
-* Bei Auflösung des Vereins oder bei Wegfall seines bisherigen Zwecks fällt das Vermögen der Welcome Werkstatt an eine gemeinnützige Körperschaft zwecks Verwendung für die Förderung der Wissenschaft und Forschung. Die Mitgliederversammlung, die eine Auflösung des Vereins beschließt, hat hier darüber abzustimmen welche gemeinnützige Körperschaft ausgewählt wird.
+* Bei Auflösung des Vereins oder bei Wegfall seines bisherigen Zwecks fällt das Vermögen der Welcome Werkstatt an eine gemeinnützige Körperschaft zwecks Verwendung für die Förderung der Wissenschaft und Forschung. Die Mitgliederversammlung, die eine Auflösung des Vereins beschließt, hat darüber abzustimmen welche gemeinnützige Körperschaft ausgewählt wird.
 
-#### § 13 SONSTIGES
+#### § 14 SONSTIGES
 * Beschlüsse, durch die eine für steuerliche Vergünstigungen wesentliche Satzungsbestimmung geändert, ergänzt, in die Satzung eingefügt oder aufgehoben wird sowie die Auflösung des Vereins, die Überführung in eine andere Körperschaft oder die Übertragung des Vereinsvermögens als Ganzes ist der zuständigen Finanzbehörde durch den Vorstand unverzüglich mitzuteilen.
 * Vor Verteilung oder Übertragung des Vereinsvermögens ist die Unbedenklichkeitserklärung des zuständigen Finanzamtes einzuholen.
 
