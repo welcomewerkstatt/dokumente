@@ -89,8 +89,8 @@
 * Der Vorstand wird auf ein Jahr gewählt. Eine Wiederwahl ist möglich.
 * Die Amtszeit des Vorstands beginnt mit der Wahl in der Mitgliederversammlung.
 * Nach Ende der regulären Amtszeit bleibt der Vorstand bis zur nächsten Wahl kommissarisch im Amt.
-* Scheidet ein Mitglied vorzeitig aus dem Vorstand aus (z.B. Kündigung der Vereinsmitgliedschaft oder Rücktritt aus dem Vorstand) beauftragen die verbleibenden Vorstandmitglieder ein Mitglied mit der Wahrnehmung dieser Aufgabe bis zur nächsten Mitgliederversammlung.
-* Der Vorstand kann sich eine Geschäftsordnung geben, in der insbesondere Geschäftsverteilung innerhalb des Vorstandes und die gegenseitige Vertretung der Vorstandsmitglieder zu regeln ist.
+* Scheidet ein Mitglied vorzeitig aus dem Vorstand aus (z.B. Kündigung der Vereinsmitgliedschaft oder Rücktritt aus dem Vorstand) beauftragen die verbleibenden Vorstandsmitglieder ein Mitglied mit der Wahrnehmung dieser Aufgabe bis zur nächsten Mitgliederversammlung.
+* Der Vorstand kann sich eine Geschäftsordnung geben, in der insbesondere die Geschäftsverteilung innerhalb des Vorstandes und die gegenseitige Vertretung der Vorstandsmitglieder zu regeln ist.
 * Der Vorstand kann beschließen, Mitgliedern (inklusive Vorstands- und Beiratsmitgliedern) eine angemessene Aufwandsentschädigung für geleistete Tätigkeiten zu bezahlen, sofern dies die finanziellen Rahmenbedingungen des Vereins erlauben.
 * Zu Sitzungen des Vorstandes ist eine Woche vorher in Textform zu laden. Mit dem Einverständnis aller Mitglieder des Vorstandes kann diese Frist verkürzt werden oder ganz entfallen.
 * Der Vorstand ist beschlussfähig, wenn die absolute Mehrheit der Vorstandsmitglieder anwesend ist.
