@@ -18,7 +18,7 @@
     - Einweisungen dienen vornehmlich dem Zweck, Verletzungen von Personen und Beschädigungen der Maschinen durch unsachgemäßen Gebrauch zu verhindern.
     1. **Wer darf einweisen?**
         1. Eine Liste, in der die Einweiser für jedes Gerät aufgeführt sind, befindet sich im internen Bereich der Cloud.
-        2. Voraussetzung für Einweiser ist nennenswerte Erfahrung im Umgang mit der Maschine (> 10-15 Maschinenstunden) und ein sicherer Umgang mit dem Gerät.
+        2. Voraussetzung für Einweiser ist nennenswerte Erfahrung sowe ein sicherer Umgang mit der Maschine (> 10-15 Maschinenstunden).
         3. Einweiser müssen an dem Gerät selbst eingewiesen sein.
         4. Neue Einweiser werden vom Werkzeugwart oder einer von diesem beauftragten und mit dem Gerät vertrauten Person für geeignet erklärt und dazu berufen. Neue Einweiser werden in der o.g. Liste ergänzt.
 
