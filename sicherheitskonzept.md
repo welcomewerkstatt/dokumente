@@ -27,7 +27,7 @@
         2. In alle weiteren Geräte, an denen man sich nicht sicher fühlt oder die einem nicht ausreichend vertraut sind, sollte man sich einweisen lassen. Im Zweifel sollte man sich lieber einweisen lassen.
 
     3. **Allgemeine Regelungen zu Einweisungen**
-        1. Wenn mehrere Personen gleichzeitig eingewiesen werden möchten, dann sollten die Einweisungen immer in kleinen Gruppen stattfinden, damit genug Zeit und Raum für Nachfragen (auch für vermeintlich "peinliche" oder "dumme" Fragen) und "Ausprobieren" bleibt. Erfahrungsgemäß klappt das gut in Gruppen von maximal 3 Personen.
+        1. Es dürfen nicht mehr als drei Personen gleichzeitig eingewiesen werden, damit genug Zeit und Raum für die Beantwortung aller Fragen und zum "Ausprobieren" bleibt. Ausnahmen sind nicht-sicherheitskritische Geräte (z.B. 3D-Drucker). Die Einweisenden können stets auch entscheiden, weniger als drei Personen gemeinsam einzuweisen.
         2. Um das Gelernte zu verinnerlichen, sollten Mitglieder pro Termin nur in eine einzelne Maschine eingewiesen werden.
         3. Bei den meisten Geräten ist am Ende der Einweisung eine kleine Übung unter Aufsicht zwingend erforderlich (siehe Liste).
         4. Die Einweisung wird nach einer Checkliste ausgeführt. Für die vorgeschriebenen Einweisungen gibt es je eine laminierte Checkliste pro Gerät im Büro, auf der abgehakt werden kann. Die Checklisten hängen möglichst neben dem Gerät und liegen in der Cloud unter \Mitglieder\Werkstattbetrieb\Aufsichtsaufgaben\Werkzeugeinweisungen.
