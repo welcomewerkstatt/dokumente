@@ -3,7 +3,7 @@
 1. **Sicherheit in der Werkstatt**
     1. Der Haftungsausschluss auf der Mitglieds-Karteikarte muss von jedem Mitglied unterschrieben werden. Ohne unterzeichneten Haftungsausschluss darf kein Mitglied in der Werkstatt arbeiten.
     2. Jedes Mitglied muss darauf hingewiesen werden, dass für bestimmte Geräte Einweisungen zwingend notwendig oder empfohlen sind. Die Einweisungen können, je nach Maschine, nur von bestimmten Personen gegeben werden. Es muss darauf hingewiesen werden, wo sich diese Informationen (Welche Maschinen brauchen eine Eiweisung? Wer kann einweisen?) befinden.
-    3. Erste Hilfe: Regal mit Erste-Hilfe-Materialien und Arbeitsschutz im Büro muss jedem neuen Mitglied gezeigt werden. Verletzungen müssen in den Erste-Hilfe-Block eingetragen werden. Jedes neue Mitglied muss darauf hingewiesen werden, dass ein aktueller Erste-Hilfe-Schein vom Verein dringend empfohlen wird. Die Kosten werden von der Berufsgenossenschaft übernommen.
+    3. Erste Hilfe: Regal mit Erste-Hilfe-Materialien und Arbeitsschutz im Büro muss jedem neuen Mitglied gezeigt werden. Verletzungen müssen in den Erste-Hilfe-Block eingetragen werden. Jedes Mitglied muss (ab Januar 2025) einen aktuellen Erste-Hilfe-Schein vorweisen, der nicht älter ist als drei Jahre. 
     4. Jedes Mitglied muss darauf hingewiesen werden, dass Gefahrstoffe wie z. B. Pinselreiniger, Verdünner, Spiritus oder Benzin in dem dafür vorgesehenen Gefahrstoffschrank aufzubewahren sind.
     5. Defekte Geräte, Einbauten oder Anschlüsse müssen unverzüglich in unsere Messenger-Gruppe gemeldet und vor Ort gekennzeichnet werden (formloser Zettel genügt).
     6. Jedes Mitglied muss auf die Fluchtwege hingewiesen werden. Diese müssen unbedingt freigehalten werden.
