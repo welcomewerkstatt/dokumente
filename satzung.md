@@ -33,7 +33,7 @@
 * Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung (§ 51 ff. AO).
 * Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
 * Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
-* Sollen ordentliche Mitglieder des Vereins oder Mitglieder der Organe des Vereins für die Ausübung genau zu definierender Tätigkeiten angestellt oder ihre Tätigkeit in anderer Form entlohnt bekommen, so ist hierfür ein Abschluss eines schriftlichen Vertrages erforderlich.
+* Sollen ordentliche Mitglieder des Vereins oder Mitglieder der Organe des Vereins für die Ausübung genau zu definierender Tätigkeiten angestellt oder ihre Tätigkeit in anderer Form entlohnt bekommen, so ist hierfür ein Abschluss eines schriftlichen Vertrages erforderlich. (Betrifft das auch die weiter untern genannten Ehrenamtspauschalen?)
 
 #### § 4 MITGLIEDSCHAFT
 * Mitglieder können natürliche Personen und juristische Personen jedweder Rechtsform werden.
@@ -51,12 +51,13 @@
 #### § 5 AUSSCHLUSS EINES MITGLIEDS
 * Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt oder wenn ein sonstiger wichtiger Grund vorliegt. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in Textform unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
 * Gegen den Beschluss des Vorstandes ist die Anrufung der Mitgliederversammlung zulässig. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft.
+* (Hier können wir klarer fassen. Anrufung der nächsten Ordentlichen oder Verlangen der einberufung einer Außerordentlichen was auch immer)
 
 #### § 6 MITGLIEDSBEITRÄGE
-* Mitglieder entrichten Beiträge nach Maßgabe der jeweils aktuellen Beitragsordnung. In Sonderfällen hat der Vorstand des Vereins das Recht eine Einzelfallregelung per einfachem Mehrheitsbeschluss festzulegen.
+* Mitglieder entrichten Beiträge nach Maßgabe der jeweils aktuellen Beitragsordnung. In Sonderfällen hat der Vorstand des Vereins das Recht eine Einzelfallregelung per einfachem Mehrheitsbeschluss festzulegen. (Zusätzlicher Verweis ist nicht nötig)
 
 #### § 7 FINANZIERUNG
-* Der Verein finanziert die Durchführung seiner Aufgaben durch Mitgliedsbeiträge, Spenden, Fördermittel, Umlagen und andere finanzielle Mittel, soweit sie nicht den gemeinnützigen Zwecken des Vereins widersprechen.
+* Der Verein finanziert die Durchführung seiner Aufgaben durch Mitgliedsbeiträge, Spenden, Fördermittel, Umlagen und andere finanzielle Mittel, soweit sie nicht den gemeinnützigen Zwecken des Vereins widersprechen. (Ist dieser Paragraf zwingend nötig? Die es gelten doch lediglich die Anforderungen aus dem Steuerrecht. "andere finanzielle Mittel" = idieller/wirtschaftlicher Geschäftsbetrieb)
 
 #### § 8 ORGANE
 * Die Organe der Welcome Werkstatt sind die Mitgliederversammlung, der Vorstand und der Beirat.
