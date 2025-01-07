@@ -1,5 +1,12 @@
 # SATZUNG DES VEREINS WELCOME WERKSTATT E.V.
+#### Präambel
+Die Welcome Werkstatt bietet einen Raum, an dem alle Menschen zusammenkommen und gemeinsam kreativ werden können. Wir wollen hierfür den Ort, die Werkzeuge und das Wissen zur Verfügung stellen, damit sich die Kreativität entfalten kann und Ideen in die Tat umgesetzt werden können. Handwerkliche Fertigkeiten werden dabei ausgebildet und weitergegeben.
 
+Durch den gemeinsamen Austausch von Ideen entstehen hier Lösungen, die unsere Gesellschaft positiv beeinflussen können. Beim gemeinsamen Arbeiten kann über alle Unterschiede hinweg Toleranz entstehen.
+
+Als Stadtteilwerkstatt sind wir lokal verwurzelt und vernetzen uns über die eigene Nachbarschaft hinaus. 
+
+Wir orientieren uns in unserer Arbeit an den Zielen für nachhaltige Entwicklung der UN.
 #### § 1 NAME, SITZ, RECHTSFÄHIGKEIT, GESCHÄFTSJAHR
 * Der Verein führt den Namen „Welcome Werkstatt“.
 * Sitz des Vereins ist Hamburg.
@@ -7,27 +14,20 @@
 * Das Geschäftsjahr des Vereins ist das Kalenderjahr.
 
 #### § 2 ZWECK DES VEREINS
-* Zweck des Vereins sind die Förderung von Bildung, sowie der Kunst und Kultur auf den Gebieten der Techniken aus Handwerk und Ingenieurwesen, deren Anwendung, Geschichte und Weiterentwicklung und des selbstständigen und kreativen Umgangs mit Informationstechnologien und Technik im Allgemeinen.
-* Ein weiterer Zweck stellt auch die Förderung der Hilfe für aus politischen, rassistischen oder religiösen Gründen Verfolgte.
-* Im Verein sind alle Technikbegeisterten und Kreativen willkommen, ungeachtet ihres Geschlechts oder Alters, ihrer ethnischen Zugehörigkeit, Nationalität, sozialen Herkunft, etwaigen Behinderung oder sexuellen Orientierung.
-* Der Satzungszweck wird insbesondere verwirklicht durch:
-  1. Den Aufbau einer offenen Stadtteilwerkstatt, wo vor allem Kunst- und Bildungsprojekte realisiert werden.
-  2. Die Förderung regionaler Wertschöpfung.
-  3. Die fachliche Beratung und Unterstützung im handwerklichen Bereich.
-  4. Wissensvermittlung in den folgenden Bereichen:
-      * Handwerkliche Produktion
-      * Traditionelle und neue Fertigungsverfahren
-      * Werkstoffkunde
-      * Handwerkstechniken
-      * Einsatz neuer Technologien, Computer und neue Medien
-  5. Veranstaltungen von Schulungen und Workshops u.a. zu nachhaltigen Instandhaltungsmaßnahmen von Gebrauchsgegenständen des alltäglichen Lebens und zur wissenschaftlichen Behandlung von aktuellen Entwicklungen in den o.g. Themenbereichen.
-  6. Vernetzung von und mit bestehenden Gruppen und Projekten, z.B. Anwender-Gruppen, Stammtischen, Werkstätten, Künstlergruppen und wissenschaftlichen Einrichtungen.
-  7. Gezielte Ansprache von geflüchteten Personen z.B. in Folgeunterkünften mit Angebot von handwerklichen Freizeitaktivitäten zu Integrations- und Austauschzwecken.
-  8. Förderprojekte im Rahmen spezieller Veranstaltungen und Kooperationen mit ehrenamtlichen Bürgerinitiativen, Bildungseinrichtungen und Vereinen im Bereich Flüchtlingshilfe zum Zwecke der Integration.
-  9. Einbindung künstlerischer Arbeiten in das Vereinsleben insbesondere durch:
-      * Ausstellung und Präsentation künstlerischer Arbeiten in den Vereinsräumen.
-      * Integration künstlerischer Elemente in die Einrichtung der Vereinsräume.
-      * Bereitstellung von Arbeitsräumen/-materialien und Wissensvermittlung für Künstler.
+Der Verein verfolgt folgende gemeinnützige Zwecke gemäß §52 AO:
+
+* Die Förderung von Kunst und Kultur,
+  * insbesondere der Handwerkskunst und -Kultur.
+* Die Förderung der Erziehung, Volks- und Berufsbildung, 
+   * insbesondere die Vermittlung von handwerklichen Fertigkeiten und
+   * die Vermittlung von neueren Fertigungstechnologien.
+* Die Förderung des Umweltschutzes, einschließlich des Klimaschutzes,
+  * insbesondere durch die gemeinsame Nutzung von Räumlichkeiten und Werkzeugen und
+  * die Förderung von Restaurierung, Materialrecycling und Reparatur.
+* Die Förderung der Hilfe für politisch, rassistisch oder religiös Verfolgte, für Flüchtlinge, Vertriebene und der Hilfe für Menschen, die auf Grund ihrer geschlechtlichen Identität bzw. Orientierung diskriminiert werden,
+  * insbesondere durch Angebote, die auf entsprechende Gruppen zugeschnitten sind.
+* Die Förderung von Verbraucherberatung und Verbraucherschutz,
+   * insbesondere die Unterstützung bei Reparaturen durch Wissensvermittlung und Hilfe bei der Ersatzteilbeschaffung.
 
 #### § 3 SELBSTLOSIGKEIT
 * Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung (§ 51 ff. AO).
