@@ -124,5 +124,5 @@ Verfahren der Mitgliederversammlung
 * Beschlüsse, durch die eine für steuerliche Vergünstigungen wesentliche Satzungsbestimmung geändert, ergänzt, in die Satzung eingefügt oder aufgehoben wird sowie die Auflösung des Vereins, die Überführung in eine andere Körperschaft oder die Übertragung des Vereinsvermögens als Ganzes ist der zuständigen Finanzbehörde durch den Vorstand unverzüglich mitzuteilen.
 * Vor Verteilung oder Übertragung des Vereinsvermögens ist die Unbedenklichkeitserklärung des zuständigen Finanzamtes einzuholen.
 
-Fassung vom 23.11.2023
+Fassung vom 16.02.2025
 
