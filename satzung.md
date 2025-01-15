@@ -116,7 +116,7 @@ Verfahren der Mitgliederversammlung
 * Der Beirat besteht aus Vereinsmitgliedern, die sich freiwillig für dieses Amt zur Verfügung stellen, und anschließend vom Vorstand berufen werden. Die Zurverfügungstellung sowie die Berufung können beidseitig widerrufen werden.
 
 #### § 14 AUFLÖSUNG
-* Zur Auflösung des Vereins bedarf es der Dreiviertelmehrheit der an der Mitgliederversammlung teilnehmenden Mitglieder und der Hälfte der Mitglieder.
+* Zur Auflösung des Vereins bedarf es der Dreiviertelmehrheit der an der Mitgliederversammlung teilnehmenden Mitglieder.
 * Bei Auflösung des Vereins oder bei Wegfall seines bisherigen Zwecks fällt das Vermögen der Welcome Werkstatt an eine gemeinnützige Körperschaft zwecks Verwendung für die Förderung der Wissenschaft und Forschung. Die Mitgliederversammlung, die eine Auflösung des Vereins beschließt, hat darüber abzustimmen welche gemeinnützige Körperschaft ausgewählt wird.
 
 #### § 15 SONSTIGES
