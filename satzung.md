@@ -64,13 +64,13 @@ Der Verein verfolgt folgende gemeinnützige Zwecke gemäß §52 AO:
 
 #### § 10 MITGLIEDERVERSAMMLUNG
 Aufgaben der Mitgliederversammlung
-* Die Mitgliederversammlung:
-  * entscheidet über die Grundsätze der Vereinsarbeit
-  * wählt und kontrolliert den Vorstand
-  * fasst Beschlüsse über die Auflösung des Vereins
-  * wählt die Kassenprüfenden
-  * entscheidet über die Jahresabschlussrechnung des Vorstandes und dessen Entlastung und
-  * fasst Beschlüsse über die Änderungen der Beitragsordnung
+ Die Mitgliederversammlung:
+ * entscheidet über die Grundsätze der Vereinsarbeit
+ * wählt und kontrolliert den Vorstand
+ * fasst Beschlüsse über die Auflösung des Vereins
+ * wählt die Kassenprüfenden
+ * entscheidet über die Jahresabschlussrechnung des Vorstandes und dessen Entlastung und
+ * fasst Beschlüsse über die Änderungen der Beitragsordnung
     
 Verfahren der Mitgliederversammlung
 * Die ordentliche Mitgliederversammlung findet ein mal pro Kalenderjahr statt.
@@ -87,8 +87,7 @@ Verfahren der Mitgliederversammlung
 * Sie trifft Mehrheitsentscheidungen mit einfacher Mehrheit.
 * Zu einem Beschluss, der eine Änderung der Satzung enthält, ist eine Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich.
 * Zur Änderung des Zweckes des Vereins ist eine Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich.
-* Eine Übertragung des Stimmrechts auf ein anderes Mitglied ist möglich, wenn die Stimmübertragung zumindest in Textform nachgewiesen wird. Ein Mitglied kann 
-  maximal das Stimmrecht von einem weiteren Mitglied übertragen bekommen.
+* Eine Übertragung des Stimmrechts auf ein anderes Mitglied ist möglich, wenn die Stimmübertragung zumindest in Textform nachgewiesen wird. Ein Mitglied kann maximal das Stimmrecht von einem weiteren Mitglied übertragen bekommen.
 * Auf Antrag eines Mitgliedes ist eine Abstimmung oder Wahl geheim durchzuführen.
   
 #### § 10 KASSENPRÜFUNG
