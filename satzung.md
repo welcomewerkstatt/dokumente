@@ -90,12 +90,12 @@ Verfahren der Mitgliederversammlung
 * Eine Übertragung des Stimmrechts auf ein anderes Mitglied ist möglich, wenn die Stimmübertragung zumindest in Textform nachgewiesen wird. Ein Mitglied kann maximal das Stimmrecht von einem weiteren Mitglied übertragen bekommen.
 * Auf Antrag eines Mitgliedes ist eine Abstimmung oder Wahl geheim durchzuführen.
   
-#### § 10 KASSENPRÜFUNG
+#### § 11 KASSENPRÜFUNG
 * Die Mitgliederversammlung wählt für das laufende Geschäftsjahr einen Kassenprüfenden und eine Vertretung, die nicht Mitglied des Vorstands oder Beitrat sein dürfen.
 * Die Wiederwahl ist zulässig.
 * Die Kassenprüfenden prüfen einmal jährlich die gesamte Vereinskasse mit allen Konten, Buchungsunterlagen und Belegen und erstatten der Mitgliederversammlung darüber einen Bericht. Die Kassenprüfenden sind jederzeit zur umfassenden Prüfung aller Kassen und aller Unterlagen in sachlicher und rechnerischer Hinsicht berechtigt.
 
-#### § 11 VORSTAND
+#### § 12 VORSTAND
 * Der Vorstand:
   * führt die Geschäfte des Vereins, organisiert seine Aufgabenverteilung und fasst die erforderlichen Beschlüsse und
   * führt Aufzeichnungen über Ausgaben und Einnahmen des Vereins und stellt Spendenbescheinigungen aus.
@@ -111,15 +111,15 @@ Verfahren der Mitgliederversammlung
 * Beschlüsse im Vorstand werden mit einfacher Mehrheit gefasst.
 * Beschlüsse des Vorstandes sind zu protokollieren.
 
-#### § 12 BEIRAT
+#### § 13 BEIRAT
 * Der Beirat unterstützt den Vorstand in seinen organisatorischen Tätigkeiten bei der alltäglichen Vereinsarbeit und berät den Vorstand bei der Weiterentwicklung des Vereins.
 * Der Beirat besteht aus Vereinsmitgliedern, die sich freiwillig für dieses Amt zur Verfügung stellen, und anschließend vom Vorstand berufen werden. Die Zurverfügungstellung sowie die Berufung können beidseitig widerrufen werden.
 
-#### § 13 AUFLÖSUNG
+#### § 14 AUFLÖSUNG
 * Zur Auflösung des Vereins bedarf es der Dreiviertelmehrheit der an der Mitgliederversammlung teilnehmenden Mitglieder und der Hälfte der Mitglieder.
 * Bei Auflösung des Vereins oder bei Wegfall seines bisherigen Zwecks fällt das Vermögen der Welcome Werkstatt an eine gemeinnützige Körperschaft zwecks Verwendung für die Förderung der Wissenschaft und Forschung. Die Mitgliederversammlung, die eine Auflösung des Vereins beschließt, hat darüber abzustimmen welche gemeinnützige Körperschaft ausgewählt wird.
 
-#### § 14 SONSTIGES
+#### § 15 SONSTIGES
 * Beschlüsse, durch die eine für steuerliche Vergünstigungen wesentliche Satzungsbestimmung geändert, ergänzt, in die Satzung eingefügt oder aufgehoben werden sowie die Auflösung des Vereins, die Überführung in eine andere Körperschaft oder die Übertragung des Vereinsvermögens als Ganzes sind der zuständigen Finanzbehörde durch den Vorstand unverzüglich mitzuteilen.
 * Vor Verteilung oder Übertragung des Vereinsvermögens ist die Unbedenklichkeitserklärung des zuständigen Finanzamtes einzuholen.
 
