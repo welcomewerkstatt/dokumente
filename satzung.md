@@ -83,7 +83,7 @@ Verfahren der Mitgliederversammlung
   vorliegen. Der Vorstand leitet etwaige Anträge spätestens sechs Tage vor der Mitgliederversammlung an die Mitglieder in Textform weiter.
 * Die Mitgliederversammlung ist beschlussfähig, wenn sie ordnungsgemäß einberufen wurde.
 
-* Sie wird schriftlich protokolliert. Das Protokoll ist von der Versammlungseitung und der Schriftführung zu unterzeichnen.  
+* Sie wird schriftlich protokolliert. Das Protokoll ist von der Versammlungsleitung und der Schriftführung zu unterzeichnen.  
 * Sie trifft Mehrheitsentscheidungen mit einfacher Mehrheit.
 * Zu einem Beschluss, der eine Änderung der Satzung enthält, ist eine Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich.
 * Zur Änderung des Zweckes des Vereins ist eine Mehrheit von zwei Dritteln der abgegebenen Stimmen erforderlich.
