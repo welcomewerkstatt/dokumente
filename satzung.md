@@ -46,7 +46,7 @@ Der Verein verfolgt folgende gemeinnützige Zwecke gemäß §52 AO:
   3. durch Ausschluss.
 
 #### § 5 FÖRDERMITGLIEDER
-* Die Mitgliedschaft kann auch eine Fördermitgliedschaft sein. Fördermitglieder haben kein Stimmrecht auf Mitgliederversammlungen. Die Fördermitgliedschaft kann bereits beim Eintritt in den Verein gewählt werden. Jedes Mitglied kann außerdem jederzeit durch Antrag in Textform an den Vorstand zwischen Fördermitgliedschaft und normaler Mitgliedschaft wechseln. Ein Wechsel wird jeweils mit Zugang des Antrages an den Vorstand gültig.
+* Die Mitgliedschaft kann auch eine Fördermitgliedschaft sein. Fördermitglieder haben kein Stimmrecht auf Mitgliederversammlungen. Die Fördermitgliedschaft kann bereits beim Eintritt in den Verein gewählt werden. Jedes Mitglied kann außerdem jederzeit durch Antrag in Textform an den Vorstand zwischen Fördermitgliedschaft und normaler Mitgliedschaft wechseln. Ein Wechsel wird jeweils mit Zugang des Antrages an den Vorstand gültig. Juristische Personen können Fördermitglied werden.
 
 #### § 6 AUSSCHLUSS EINES MITGLIEDS
 * Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt, es seine Mitgliedsbeiträge nicht entrichtet oder ein sonstiger wichtiger Grund vorliegt. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in Textform unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
