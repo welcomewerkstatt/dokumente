@@ -63,7 +63,7 @@ Der Verein verfolgt folgende gemeinnützige Zwecke gemäß §52 AO:
 
 
 #### § 10 MITGLIEDERVERSAMMLUNG
-Aufgaben der Mitgliederversammlung
+**Aufgaben der Mitgliederversammlung** </br>
 Die Mitgliederversammlung:
  * entscheidet über die Grundsätze der Vereinsarbeit
  * wählt und kontrolliert den Vorstand
@@ -72,7 +72,7 @@ Die Mitgliederversammlung:
  * entscheidet über die Jahresabschlussrechnung des Vorstandes und dessen Entlastung und
  * fasst Beschlüsse über die Änderungen der Beitragsordnung
     
-Verfahren der Mitgliederversammlung
+**Verfahren der Mitgliederversammlung**
 * Die ordentliche Mitgliederversammlung findet einmal pro Kalenderjahr statt.
 * Eine außerordentliche Mitgliederversammlung wird auf Beschluss des Vorstandes oder auf Verlangen eines Zehntels der Mitglieder des Vereins in Textform unter Angabe des Zweckes und der Gründe durchgeführt werden.
 * Dem Vorstand obliegt die Einberufung der Mitgliederversammlung.
