@@ -5,7 +5,7 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
 1. Mitgliedsgebühren
     1. Alle Vereinsmitglieder – sowohl Fördermitglieder als auch ordentliche Mitglieder mit Stimmrecht – zahlen einen Mitgliedsbeitrag. Der Mitgliedsbeitrag wird monatlich berechnet.
 
-    2. Ordentliche Mitglieder können gemäß § 6 der Satzung einen formlosen Antrag auf Ermäßigung der Beitragshöhe stellen. Über den Antrag wird durch den Vorstand per einfachem Mehrheitsbeschluss binnen 14 Tagen entschieden. Der zu leistende Beitrag wird durch den Vorstand im Einzelfall festgelegt und dem Mitglied ohne Verzug formlos mitgeteilt.
+    2. Ordentliche Mitglieder können einen formlosen Antrag auf Ermäßigung der Beitragshöhe stellen. Über den Antrag wird durch den Vorstand per einfachem Mehrheitsbeschluss binnen 14 Tagen entschieden. Der zu leistende Beitrag wird durch den Vorstand im Einzelfall festgelegt und dem Mitglied ohne Verzug formlos mitgeteilt.
 
     3. Die Beitragszahlung der Mitglieder erfolgt entweder per Überweisung auf das Vereinskonto oder im Lastschriftverfahren. Sie erfolgt, je nach gewählter Zahlungsweise des Mitglieds, jeweils zum ersten Werktag des Monats. Wird das Lastschriftverfahren gewählt, so erteilt das Mitglied dem Verein hierfür ein SEPA-Lastschriftmandat.
 
@@ -21,13 +21,11 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
 2. Tagespauschale
     1. Für die private Nutzung der Räumlichkeiten des Vereins entrichten ordentliche Mitglieder mit Stimmrecht eine reduzierte Tagespauschale von 3 Euro. Gäste entrichten pro Nutzungstag innerhalb der regulären Öffnungszeiten pauschal 10 Euro.
     
-    2. Gäste und Mitglieder, die Sozialleistung(-en) im Rahmen des SGB I ff. erhalten, zahlen pro Nutzungstag die Hälfte der jeweiligen Tagespauschale. Ein Nachweis ist nicht erforderlich.
+    2. Für Schüler:innen, Studierende und Menschen, die den vollen Beitrag nicht zahlen können, reduziert sich die Tagespauschale auf die Hälfte. Dies gilt für Gäste und Mitglieder.
 
     3. Alle Besucher (Mitglieder und Gäste) können eine Begleitperson mit in die Räumlichkeiten bringen, sofern diese am gleichen Projekt mitarbeitet. Die Begleitperson eines Mitglieds entrichtet eine Tagespauschale von 3 Euro. Die Begleitperson eines Nicht-Mitglieds entrichtet eine Tagespauschale von 8 Euro.
-
-    4. Mitglieder können zur Entrichtung der Tagespauschale eine Zehnerkarte zum Preis von zehn Tagespauschalen (aktuell 10 x 3 Euro also 30 Euro) erwerben. Sie erlaubt dem Mitglied die zehnmalige Nutzung der Räumlichkeiten – auch wenn sich die Höhe der Tagespauschale im Nachhinein ändert. 
     
-    5. Mitglieder, die Arbeitsleistungen für die Werkstatt erbringen (mind. 45 Minuten), müssen am selben Tag für die private Nutzung keine Tagespauschale leisten.
+    4. Mitglieder, die Arbeitsleistungen für die Werkstatt erbringen (mind. 45 Minuten), müssen am selben Tag für die private Nutzung keine Tagespauschale leisten.
 
 3. Arbeitsleistung
 
@@ -37,13 +35,12 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
 
     3. Die Kontrolle erbrachter Arbeitsstunden obliegt dem Vorstand. Dazu müssen die Arbeitsstunden der Mitglieder an den Vorstand gemeldet werden.
 
-    4. Wird die Anzahl der Arbeitsstunden nicht erfüllt, erhebt der Verein pro nicht geleisteter Stunde eine Ausfallgebühr von 12,50 Euro. Der eventuell fällig werdende Betrag wird dem Mitglied per E-Mail mitgeteilt. Im folgenden Monat wird der Betrag durch das Mitglied per Lastschrift oder per Überweisung beglichen.
-
+    4. Wird die Anzahl der Arbeitsstunden nicht erfüllt, erhebt der Verein pro nicht geleisteter Stunde eine Ausfallgebühr von 12,50 Euro.
 
 4. Neumitglieder
     1. Der Verein erhebt eine Aufnahmegebühr von 10 Euro, die nach Aufnahme in den Verein fällig wird und mit dem ersten Mitgliedsbeitrag zusammen überwiesen werden muss.
 
-    2. Die Nutzung von Lagerfläche erfordert eine genormte Lagerkiste. Diese erhält das Mitglied zum Selbstkostenpreis von aktuell 10 Euro. Sofern die Kiste vollständig intakt und weiterhin nutzbar ist, kann diese bei Austritt an den Verein zurückgegeben werden und der Betrag wird dem Mitglied erstattet. 
+    2. Die Nutzung von Lagerfläche erfordert eine genormte Lagerkiste. Diese erhalten Mitglieder gegen eine Pfandleistung von 10 Euro. Die gezahlte Pfandleistung wird vollständig erstattet, wenn die Kiste intakt und weiterhin nutzbar zurückgegeben wird. 
 
     3. Auf Wunsch erhalten Mitglieder einen Schlüsselanhänger zur Öffnung der Räumlichkeiten. Dabei wird aktuell eine Pfandleistung in Höhe von 15 Euro fällig. Sofern der Schlüsselanhänger intakt und weiterhin nutzbar ist, kann dieser bei Austritt an den Verein zurückgegeben werden. Die gezahlte Pfandleistung wird dann vollständig erstattet.
 
@@ -52,9 +49,9 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
 5. Sonstiges
     1. Anschriften-, Namens- und Kontenänderungen sowie Veränderungen, die zu einer anderen Bemessung der Beitragshöhe führen, sind dem Vorstand unverzüglich mitzuteilen.
 
-    2. Wird der Beitrag trotz schriftlicher Mahnung nicht fristgemäß entrichtet, führt dies gemäß  § 4 der Satzung nach einem Verzug mit drei Monatsbeiträgen zum Ausschluss des Mitgliedes. Die Verbindlichkeiten bleiben davon unberührt. Für Mahnschreiben ist der Verein berechtigt, ohne Nachweisführung einen Betrag von 2,50 Euro zu berechnen.
+    2. Wird der Beitrag trotz schriftlicher Mahnung nicht fristgemäß entrichtet, führt dies gemäß  § 6 der Satzung nach einem Verzug mit drei Monatsbeiträgen zum Ausschluss des Mitgliedes. Die Verbindlichkeiten bleiben davon unberührt. Für Mahnschreiben ist der Verein berechtigt, ohne Nachweisführung einen Betrag von 2,50 Euro zu berechnen.
 
-    3. Diese Beitragsordnung kann bei Notwendigkeit vom Vorstand per Beschluss geändert werden. Der Vorstand hat Änderungsbeschlüsse bezüglich dieser Beitragsordnung unverzüglich per E-Mail an alle Mitglieder mit bekannter E-Mail-Adresse sowie zusätzlich in der nächsten Mitgliederversammlung vorzulegen.
+    3. Diese Beitragsordnung kann per Beschluss der Mitgliederversammlung geändert werden. Änderungen sind allen Mitgliedern unverzüglich in Textform per E-Mail mit bekannter E-Mail-Adresse sowie zusätzlich in der nächsten Mitgliederversammlung vorzulegen.
 
 
-Beschlossen am 10.2.2023
+Beschlossen am 16.2.2025
