@@ -117,7 +117,8 @@ Die Mitgliederversammlung:
 
 #### § 14 AUFLÖSUNG
 * Zur Auflösung des Vereins bedarf es der Dreiviertelmehrheit der an der Mitgliederversammlung teilnehmenden Mitglieder.
-* Bei Auflösung des Vereins oder bei Wegfall seines bisherigen Zwecks fällt das Vermögen der Welcome Werkstatt an eine gemeinnützige Körperschaft zwecks Verwendung für die Förderung der Wissenschaft und Forschung. Die Mitgliederversammlung, die eine Auflösung des Vereins beschließt, hat darüber abzustimmen welche gemeinnützige Körperschaft ausgewählt wird.
+* Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder an eine andere steuerbegünstigte Körperschaft zwecks Verwendung für die Förderung der Wissenschaft und Forschung.
+* Die Mitgliederversammlung, die eine Auflösung des Vereins beschließt, hat darüber abzustimmen welche gemeinnützige Körperschaft ausgewählt wird.
 
 #### § 15 SONSTIGES
 * Beschlüsse, durch die eine für steuerliche Vergünstigungen wesentliche Satzungsbestimmung geändert, ergänzt, in die Satzung eingefügt oder aufgehoben werden sowie die Auflösung des Vereins, die Überführung in eine andere Körperschaft oder die Übertragung des Vereinsvermögens als Ganzes sind der zuständigen Finanzbehörde durch den Vorstand unverzüglich mitzuteilen.
