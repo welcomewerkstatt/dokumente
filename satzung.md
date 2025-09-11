@@ -17,20 +17,24 @@ Wir orientieren uns in unserem Handeln an den Zielen für nachhaltige Entwicklun
 #### § 2 ZWECK DES VEREINS
 Der Verein verfolgt folgende gemeinnützige Zwecke gemäß §52 AO:
 
-* die Förderung von Kunst und Kultur,
-  * insbesondere der Handwerkskunst und -Kultur.
+* Die Förderung von Kunst und Kultur.  
+  Der Satzungszweck wird verwirklicht insbesondere durch:
+  * Förderung der Handwerkskunst und -Kultur.
   * die Vermittlung und Erhaltung von historischen Handwekstechniken und traditionellen Fertigungsverfahren
   * die Bereitstellung von Räumlichkeiten und Materialien für Kunstschaffende
-* die Förderung der Erziehung, Volks- und Berufsbildung, 
-   * insbesondere die Vermittlung von handwerklichen Fertigkeiten und
+* Die Förderung der Erziehung, Volks- und Berufsbildung.  
+  Der Satzungszweck wird verwirklicht insbesondere durch:
+   * die Vermittlung von handwerklichen Fertigkeiten und
    * die Vermittlung von neueren Fertigungstechnologien.
    * Schulung in der Verwendung von Werkzugen und Maschinen
-* die Förderung des Umweltschutzes, einschließlich des Klimaschutzes,
+* Die Förderung des Umweltschutzes, einschließlich des Klimaschutzes.  
+  Der Satzungszweck wird verwirklicht insbesondere durch:
   * Reduktion von Ressourcenverbrauch durch die gemeinsame Nutzung von Räumlichkeiten und Werkzeuge und
-  * Vermeidung von Neuproduktion duch die Restaurierung und Reparatur von Möbeln, Geräten und Gebrauchsgegenständen
+  * Vermeidung von Neuproduktion durch die Restaurierung und Reparatur von Möbeln, Geräten und Gebrauchsgegenständen
   * Direktes Materialrecycling in der Werkstatt
-* die Förderung der Hilfe für politisch, rassistisch oder religiös Verfolgte, für Flüchtlinge, Vertriebene und der Hilfe für Menschen, die auf Grund ihrer geschlechtlichen Identität bzw. Orientierung diskriminiert werden,
-  * insbesondere durch Angebote, die auf entsprechende Gruppen zugeschnitten sind. Beispielsweise Workshopangebote explizit für FLINTA*-Personen oder Geflüchtete.
+* Die Förderung der Hilfe für politisch, rassistisch oder religiös Verfolgte, für Flüchtlinge, Vertriebene und der Hilfe für Menschen, die auf Grund ihrer geschlechtlichen Identität bzw. Orientierung diskriminiert werden.  
+  Der Satzungszweck wird verwirklicht insbesondere durch:
+  * Verwirklichung von Angeboten, die auf entsprechende Gruppen zugeschnitten sind. Beispielsweise Workshopangebote explizit für FLINTA*-Personen oder Geflüchtete.
   * Kooperation mit Intitativen aus der Flüchtlingshilfe
 
 #### § 3 SELBSTLOSIGKEIT
