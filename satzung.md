@@ -19,7 +19,6 @@ Der Verein verfolgt folgende gemeinnützige Zwecke gemäß §52 AO:
 
 * Die Förderung von Kunst und Kultur.  
   Der Satzungszweck wird verwirklicht insbesondere durch:
-  * Förderung der Handwerkskunst und -Kultur.
   * die Vermittlung und Erhaltung von historischen Handwekstechniken und traditionellen Fertigungsverfahren
   * die Bereitstellung von Räumlichkeiten und Materialien für Kunstschaffende
 * Die Förderung der Erziehung, Volks- und Berufsbildung.  
@@ -32,6 +31,7 @@ Der Verein verfolgt folgende gemeinnützige Zwecke gemäß §52 AO:
   * Reduktion von Ressourcenverbrauch durch die gemeinsame Nutzung von Räumlichkeiten und Werkzeuge und
   * Vermeidung von Neuproduktion durch die Restaurierung und Reparatur von Möbeln, Geräten und Gebrauchsgegenständen
   * Direktes Materialrecycling in der Werkstatt
+  * Kooperation mit Organisationen bzw. Initiativen aus dem Bereich Umweltschutz
 * Die Förderung der Hilfe für politisch, rassistisch oder religiös Verfolgte, für Flüchtlinge, Vertriebene und der Hilfe für Menschen, die auf Grund ihrer geschlechtlichen Identität bzw. Orientierung diskriminiert werden.  
   Der Satzungszweck wird verwirklicht insbesondere durch:
   * Verwirklichung von Angeboten, die auf entsprechende Gruppen zugeschnitten sind. Beispielsweise Workshopangebote explizit für FLINTA*-Personen oder Geflüchtete.
