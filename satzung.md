@@ -28,13 +28,12 @@ Der Verein verfolgt folgende gemeinnützige Zwecke gemäß §52 AO:
    * Schulung in der Verwendung von Werkzugen und Maschinen
 * Die Förderung des Umweltschutzes, einschließlich des Klimaschutzes.  
   Der Satzungszweck wird verwirklicht insbesondere durch:
-  * Reduktion von Ressourcenverbrauch durch die gemeinsame Nutzung von Räumlichkeiten und Werkzeuge und
-  * Vermeidung von Neuproduktion durch die Restaurierung und Reparatur von Möbeln, Geräten und Gebrauchsgegenständen
   * Direktes Materialrecycling in der Werkstatt
   * Kooperation mit Organisationen bzw. Initiativen aus dem Bereich Umweltschutz
 * Die Förderung der Hilfe für politisch, rassistisch oder religiös Verfolgte, für Flüchtlinge, Vertriebene und der Hilfe für Menschen, die auf Grund ihrer geschlechtlichen Identität bzw. Orientierung diskriminiert werden.  
   Der Satzungszweck wird verwirklicht insbesondere durch:
-  * Verwirklichung von Angeboten, die auf entsprechende Gruppen zugeschnitten sind. Beispielsweise Workshopangebote explizit für FLINTA*-Personen oder Geflüchtete.
+  * Verwirklichung von Angeboten, die auf entsprechende Gruppen zugeschnitten sind. Beispielsweise die direkte Ansprache von geflüchteten Personen mit dem Angebot hadwerklicher Freizeitaktivitäten zu Integrations- und Austauschzwecken.
+  * * oder Workshops für FLINTA*-Personen mit dem Ziel der Eigenermächtigung im mänlich dominierten Heim-Handwerk.
   * Kooperation mit Intitativen aus der Flüchtlingshilfe
 
 #### § 3 SELBSTLOSIGKEIT
