@@ -19,21 +19,21 @@ Der Verein verfolgt folgende gemeinnützige Zwecke gemäß §52 AO:
 
 * Die Förderung von Kunst und Kultur.  
   Der Satzungszweck wird verwirklicht insbesondere durch:
-  * die Vermittlung und Erhaltung von historischen Handwekstechniken und traditionellen Fertigungsverfahren
+  * die Vermittlung und Erhaltung von historischen Handwerkstechniken und traditionellen Fertigungsverfahren
   * die Bereitstellung von Räumlichkeiten und Materialien für Kunstschaffende
 * Die Förderung der Erziehung, Volks- und Berufsbildung.  
   Der Satzungszweck wird verwirklicht insbesondere durch:
    * die Vermittlung von handwerklichen Fertigkeiten und
    * die Vermittlung von neueren Fertigungstechnologien.
-   * Schulung in der Verwendung von Werkzugen und Maschinen
+   * Schulung in der Verwendung von Werkzeugen und Maschinen
 * Die Förderung des Umweltschutzes, einschließlich des Klimaschutzes.  
   Der Satzungszweck wird verwirklicht insbesondere durch:
   * Direktes Materialrecycling in der Werkstatt
   * Kooperation mit Organisationen bzw. Initiativen aus dem Bereich Umweltschutz
 * Die Förderung der Hilfe für politisch, rassistisch oder religiös Verfolgte, für Flüchtlinge, Vertriebene und der Hilfe für Menschen, die auf Grund ihrer geschlechtlichen Identität bzw. Orientierung diskriminiert werden.  
   Der Satzungszweck wird verwirklicht insbesondere durch:
-  * Verwirklichung von Angeboten, die auf entsprechende Gruppen zugeschnitten sind. Beispielsweise die direkte Ansprache von geflüchteten Personen mit dem Angebot hadwerklicher Freizeitaktivitäten zu Integrations- und Austauschzwecken.
-  * * oder Workshops für FLINTA*-Personen mit dem Ziel der Eigenermächtigung im mänlich dominierten Heim-Handwerk.
+  * Verwirklichung von Angeboten, die auf entsprechende Gruppen zugeschnitten sind. Beispielsweise die direkte Ansprache von geflüchteten Personen mit dem Angebot handwerklicher Freizeitaktivitäten zu Integrations- und Austauschzwecken.
+  * * oder Workshops für FLINTA*-Personen mit dem Ziel der Eigenermächtigung im männlich dominierten Heim-Handwerk.
   * Kooperation mit Intitativen aus der Flüchtlingshilfe
 
 #### § 3 SELBSTLOSIGKEIT
