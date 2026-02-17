@@ -17,18 +17,24 @@ Wir orientieren uns in unserem Handeln an den Zielen für nachhaltige Entwicklun
 #### § 2 ZWECK DES VEREINS
 Der Verein verfolgt folgende gemeinnützige Zwecke gemäß §52 AO:
 
-* die Förderung von Kunst und Kultur,
-  * insbesondere der Handwerkskunst und -Kultur.
-* die Förderung der Erziehung, Volks- und Berufsbildung, 
-   * insbesondere die Vermittlung von handwerklichen Fertigkeiten und
+* Die Förderung von Kunst und Kultur.  
+  Der Satzungszweck wird verwirklicht insbesondere durch:
+  * die Vermittlung und Erhaltung von historischen Handwerkstechniken und traditionellen Fertigungsverfahren
+  * die Bereitstellung von Räumlichkeiten und Materialien für Kunstschaffende
+* Die Förderung der Erziehung, Volks- und Berufsbildung.  
+  Der Satzungszweck wird verwirklicht insbesondere durch:
+   * die Vermittlung von handwerklichen Fertigkeiten und
    * die Vermittlung von neueren Fertigungstechnologien.
-* die Förderung des Umweltschutzes, einschließlich des Klimaschutzes,
-  * insbesondere durch die gemeinsame Nutzung von Räumlichkeiten und Werkzeugen und
-  * die Förderung von Restaurierung, Materialrecycling und Reparatur.
-* die Förderung der Hilfe für politisch, rassistisch oder religiös Verfolgte, für Flüchtlinge, Vertriebene und der Hilfe für Menschen, die auf Grund ihrer geschlechtlichen Identität bzw. Orientierung diskriminiert werden,
-  * insbesondere durch Angebote, die auf entsprechende Gruppen zugeschnitten sind.
-* die Förderung von Verbraucherberatung und Verbraucherschutz,
-   * insbesondere die Unterstützung bei Reparaturen durch Wissensvermittlung und Hilfe bei der Ersatzteilbeschaffung.
+   * Schulung in der Verwendung von Werkzeugen und Maschinen
+* Die Förderung des Umweltschutzes, einschließlich des Klimaschutzes.  
+  Der Satzungszweck wird verwirklicht insbesondere durch:
+  * Direktes Materialrecycling in der Werkstatt
+  * Kooperation mit Organisationen bzw. Initiativen aus dem Bereich Umweltschutz
+* Die Förderung der Hilfe für politisch, rassistisch oder religiös Verfolgte, für Flüchtlinge, Vertriebene und der Hilfe für Menschen, die auf Grund ihrer geschlechtlichen Identität bzw. Orientierung diskriminiert werden.  
+  Der Satzungszweck wird verwirklicht insbesondere durch:
+  * Verwirklichung von Angeboten, die auf entsprechende Gruppen zugeschnitten sind. Beispielsweise die direkte Ansprache von geflüchteten Personen mit dem Angebot handwerklicher Freizeitaktivitäten zu Integrations- und Austauschzwecken.
+  * * oder Workshops für FLINTA*-Personen mit dem Ziel der Eigenermächtigung im männlich dominierten Heim-Handwerk.
+  * Kooperation mit Intitativen aus der Flüchtlingshilfe
 
 #### § 3 SELBSTLOSIGKEIT
 * Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung (§ 52 AO).
@@ -117,11 +123,12 @@ Die Mitgliederversammlung:
 
 #### § 14 AUFLÖSUNG
 * Zur Auflösung des Vereins bedarf es der Dreiviertelmehrheit der an der Mitgliederversammlung teilnehmenden Mitglieder.
-* Bei Auflösung des Vereins oder bei Wegfall seines bisherigen Zwecks fällt das Vermögen der Welcome Werkstatt an eine gemeinnützige Körperschaft zwecks Verwendung für die Förderung der Wissenschaft und Forschung. Die Mitgliederversammlung, die eine Auflösung des Vereins beschließt, hat darüber abzustimmen welche gemeinnützige Körperschaft ausgewählt wird.
+* Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder an eine andere steuerbegünstigte Körperschaft zwecks Verwendung für die Förderung der Wissenschaft und Forschung.
+* Die Mitgliederversammlung, die eine Auflösung des Vereins beschließt, hat darüber abzustimmen welche gemeinnützige Körperschaft ausgewählt wird.
 
 #### § 15 SONSTIGES
 * Beschlüsse, durch die eine für steuerliche Vergünstigungen wesentliche Satzungsbestimmung geändert, ergänzt, in die Satzung eingefügt oder aufgehoben werden sowie die Auflösung des Vereins, die Überführung in eine andere Körperschaft oder die Übertragung des Vereinsvermögens als Ganzes sind der zuständigen Finanzbehörde durch den Vorstand unverzüglich mitzuteilen.
 * Vor Verteilung oder Übertragung des Vereinsvermögens ist die Unbedenklichkeitserklärung des zuständigen Finanzamtes einzuholen.
 
-Fassung vom 16.02.2025
+Fassung vom 15.02.2026
 
